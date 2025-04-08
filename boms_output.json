@@ -1,0 +1,5728 @@
+[
+  {
+    "product_name": "General surgical procedure kit non-medicated single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "1 pair",
+        "purpose": "To maintain sterility and protect both the patient and healthcare provider"
+      },
+      {
+        "name": "Surgical drapes",
+        "material_type": "Disposable non-woven fabric",
+        "quantity": "1 set",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Scalpel blades",
+        "material_type": "Stainless steel",
+        "quantity": "1-3 blades",
+        "purpose": "For making incisions"
+      },
+      {
+        "name": "Surgical masks",
+        "material_type": "Non-woven fabric",
+        "quantity": "1-2 masks",
+        "purpose": "To prevent the spread of microorganisms"
+      },
+      {
+        "name": "Surgical gowns",
+        "material_type": "Disposable non-woven fabric",
+        "quantity": "1 gown",
+        "purpose": "To protect the healthcare provider and maintain sterility"
+      },
+      {
+        "name": "Sterile gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "4-6 sponges",
+        "purpose": "For wound cleaning and dressing"
+      },
+      {
+        "name": "Adhesive bandages",
+        "material_type": "Plastic and adhesive",
+        "quantity": "2-4 bandages",
+        "purpose": "For minor wound coverage"
+      },
+      {
+        "name": "Suture needles",
+        "material_type": "Stainless steel",
+        "quantity": "2-4 needles",
+        "purpose": "For wound closure"
+      },
+      {
+        "name": "Suture materials",
+        "material_type": "Synthetic or natural fibers",
+        "quantity": "1-2 packets",
+        "purpose": "For wound closure"
+      },
+      {
+        "name": "Disposable forceps",
+        "material_type": "Plastic",
+        "quantity": "1-2 forceps",
+        "purpose": "For grasping or holding tissues"
+      },
+      {
+        "name": "Disposable scissors",
+        "material_type": "Stainless steel",
+        "quantity": "1 pair",
+        "purpose": "For cutting sutures or tissues"
+      },
+      {
+        "name": "Disposable scalpels",
+        "material_type": "Plastic handle with stainless steel blade",
+        "quantity": "1 scalpel",
+        "purpose": "For making incisions"
+      },
+      {
+        "name": "Alcohol swabs",
+        "material_type": "Cotton with isopropyl alcohol",
+        "quantity": "2-4 swabs",
+        "purpose": "For skin disinfection"
+      },
+      {
+        "name": "Iodine swabs",
+        "material_type": "Cotton with povidone-iodine",
+        "quantity": "2-4 swabs",
+        "purpose": "For skin disinfection"
+      },
+      {
+        "name": "Disposable syringes",
+        "material_type": "Plastic",
+        "quantity": "1-2 syringes",
+        "purpose": "For administering medications or fluids"
+      },
+      {
+        "name": "Disposable needles",
+        "material_type": "Stainless steel",
+        "quantity": "1-2 needles",
+        "purpose": "For injections or aspirations"
+      },
+      {
+        "name": "Tourniquet",
+        "material_type": "Elastic band",
+        "quantity": "1 tourniquet",
+        "purpose": "For venous access"
+      },
+      {
+        "name": "Specimen container",
+        "material_type": "Plastic",
+        "quantity": "1 container",
+        "purpose": "For collecting and transporting specimens"
+      },
+      {
+        "name": "Biohazard bag",
+        "material_type": "Plastic",
+        "quantity": "1 bag",
+        "purpose": "For safe disposal of biohazardous materials"
+      }
+    ],
+    "previous_bom_index": 0,
+    "updated_at": "2025-03-25T09:16:22.098Z"
+  },
+  {
+    "product_name": "Spinal bone screw non-bioabsorbable",
+    "manufacturer": "Example Manufacturer Inc.",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "100%",
+        "purpose_function": "Provides structural integrity and biocompatibility for the screw."
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "1",
+        "purpose_function": "Main screw body, designed for insertion into the bone."
+      },
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "1",
+        "purpose_function": "Screw head, allows for attachment to spinal fixation rods."
+      },
+      {
+        "material_type": "Polyether ether ketone (PEEK)",
+        "quantity": "1",
+        "purpose_function": "Locking cap, secures the rod within the screw head."
+      }
+    ],
+    "previous_bom_index": 1,
+    "updated_at": "2025-03-25T09:16:39.544Z"
+  },
+  {
+    "product_name": "Bone-screw internal spinal fixation system non-sterile",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Bone Screws",
+        "material": "Titanium (Ti-6Al-4V) or Stainless Steel (316L)",
+        "quantity": "Varies based on size and application",
+        "purpose": "To anchor the system to the bone"
+      },
+      {
+        "name": "Rods",
+        "material": "Titanium (Ti-6Al-4V) or Stainless Steel (316L)",
+        "quantity": "Varies based on size and application",
+        "purpose": "To provide structural support and alignment"
+      },
+      {
+        "name": "Connectors",
+        "material": "Titanium (Ti-6Al-4V) or Stainless Steel (316L)",
+        "quantity": "Varies based on size and application",
+        "purpose": "To link rods and other components together"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Titanium (Ti-6Al-4V) or Stainless Steel (316L)",
+        "quantity": "Varies based on size and application",
+        "purpose": "To secure the connection between components"
+      },
+      {
+        "name": "Set Screws",
+        "material": "Titanium (Ti-6Al-4V) or Stainless Steel (316L)",
+        "quantity": "Varies based on size and application",
+        "purpose": "To fasten components in place"
+      },
+      {
+        "name": "Cross Connectors",
+        "material": "Titanium (Ti-6Al-4V) or Stainless Steel (316L)",
+        "quantity": "Varies based on size and application",
+        "purpose": "To provide additional stability between rods"
+      },
+      {
+        "name": "Hooks",
+        "material": "Titanium (Ti-6Al-4V) or Stainless Steel (316L)",
+        "quantity": "Varies based on size and application",
+        "purpose": "To attach the system to the bone in specific areas"
+      },
+      {
+        "name": "Clamps",
+        "material": "Titanium (Ti-6Al-4V) or Stainless Steel (316L)",
+        "quantity": "Varies based on size and application",
+        "purpose": "To hold components together securely"
+      }
+    ],
+    "previous_bom_index": 2,
+    "updated_at": "2025-03-25T09:17:08.472Z"
+  },
+  {
+    "product_name": "Compressionpressure sockstocking single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [
+      {
+        "material_type": "Nylon",
+        "quantity": "70%",
+        "purpose_function": "Provides elasticity and durability"
+      },
+      {
+        "material_type": "Spandex",
+        "quantity": "30%",
+        "purpose_function": "Enhances compression and fit"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Latex-free elastic band",
+        "quantity": "1",
+        "purpose_function": "Secures the stocking in place"
+      },
+      {
+        "material_type": "Moisture-wicking fabric",
+        "quantity": "1",
+        "purpose_function": "Keeps skin dry and comfortable"
+      },
+      {
+        "material_type": "Seamless toe closure",
+        "quantity": "1",
+        "purpose_function": "Reduces irritation and enhances comfort"
+      }
+    ],
+    "previous_bom_index": 3,
+    "updated_at": "2025-03-25T09:17:23.146Z"
+  },
+  {
+    "product_name": "Resin artificial teeth",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [
+      {
+        "name": "Polymethyl methacrylate (PMMA)",
+        "material_type": "Polymer",
+        "quantity": "70%",
+        "purpose": "Base material providing structure and durability"
+      },
+      {
+        "name": "Diethyl phthalate (plasticizer)",
+        "material_type": "Chemical",
+        "quantity": "20%",
+        "purpose": "Increases flexibility and workability of the resin"
+      },
+      {
+        "name": "Benzoyl peroxide (initiator)",
+        "material_type": "Chemical",
+        "quantity": "5%",
+        "purpose": "Initiates polymerization process"
+      },
+      {
+        "name": "Pigments (for coloration)",
+        "material_type": "Additive",
+        "quantity": "5%",
+        "purpose": "Provides natural tooth coloration"
+      }
+    ],
+    "components": [
+      {
+        "name": "Anterior teeth",
+        "material_type": "Resin",
+        "quantity": "Varies",
+        "purpose": "Front teeth for aesthetic appearance"
+      },
+      {
+        "name": "Posterior teeth",
+        "material_type": "Resin",
+        "quantity": "Varies",
+        "purpose": "Back teeth for chewing functionality"
+      },
+      {
+        "name": "Denture base resin (for mounting teeth)",
+        "material_type": "Resin",
+        "quantity": "Varies",
+        "purpose": "Base to hold artificial teeth in place"
+      },
+      {
+        "name": "Artificial gums (optional)",
+        "material_type": "Resin",
+        "quantity": "Varies",
+        "purpose": "Enhances aesthetic appearance and comfort"
+      }
+    ],
+    "previous_bom_index": 4,
+    "updated_at": "2025-03-25T09:17:45.209Z"
+  },
+  {
+    "product_name": "Dental appliance fabrication material ceramic",
+    "manufacturer": "DentalCeramics Inc.",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Silica",
+        "quantity": "60%",
+        "purpose_function": "Base material providing structural integrity"
+      },
+      {
+        "material_type": "Alumina",
+        "quantity": "20%",
+        "purpose_function": "Enhances strength and durability"
+      },
+      {
+        "material_type": "Potassium Oxide",
+        "quantity": "10%",
+        "purpose_function": "Lowers melting temperature for easier processing"
+      },
+      {
+        "material_type": "Sodium Oxide",
+        "quantity": "5%",
+        "purpose_function": "Improves workability and reduces viscosity"
+      },
+      {
+        "material_type": "Other Oxides",
+        "quantity": "5%",
+        "purpose_function": "Colorants and minor property modifiers"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Ceramic Powder",
+        "quantity": "100g",
+        "purpose_function": "Primary material for appliance fabrication"
+      },
+      {
+        "material_type": "Binder Solution",
+        "quantity": "20ml",
+        "purpose_function": "Binds ceramic powder for shaping"
+      },
+      {
+        "material_type": "Pigment",
+        "quantity": "5g",
+        "purpose_function": "Provides color matching to natural teeth"
+      },
+      {
+        "material_type": "Glaze",
+        "quantity": "10ml",
+        "purpose_function": "Provides a glossy finish and protects the surface"
+      }
+    ],
+    "previous_bom_index": 5,
+    "updated_at": "2025-03-25T09:18:05.596Z"
+  },
+  {
+    "product_name": "Polymeric spinal interbody fusion cage",
+    "manufacturer": "SpineTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Polyetheretherketone (PEEK)",
+        "quantity": "100%",
+        "purpose": "Provides structural support and biocompatibility"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium alloy",
+        "quantity": "2 screws per cage",
+        "purpose": "Ensures secure fixation to adjacent vertebrae"
+      },
+      {
+        "material_type": "Hydroxyapatite coating",
+        "quantity": "Applied to outer surface",
+        "purpose": "Enhances bone integration and fusion"
+      },
+      {
+        "material_type": "Radiopaque markers",
+        "quantity": "4 markers per cage",
+        "purpose": "Facilitates post-operative imaging and placement verification"
+      }
+    ],
+    "previous_bom_index": 6,
+    "updated_at": "2025-03-25T09:18:19.557Z"
+  },
+  {
+    "product_name": "General surgical procedure kit medicated",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile Gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "1 pair",
+        "purpose": "To protect the hands of the healthcare provider and prevent contamination"
+      },
+      {
+        "name": "Surgical Mask",
+        "material_type": "Polypropylene",
+        "quantity": "1 unit",
+        "purpose": "To protect the nose and mouth of the healthcare provider from airborne particles and fluid contamination"
+      },
+      {
+        "name": "Sterile Gauze Pads",
+        "material_type": "Cotton",
+        "quantity": "5 units",
+        "purpose": "For cleaning wounds and applying medication"
+      },
+      {
+        "name": "Antiseptic Wipes",
+        "material_type": "Non-woven fabric with antiseptic solution",
+        "quantity": "5 units",
+        "purpose": "To disinfect the skin before a procedure"
+      },
+      {
+        "name": "Scalpel",
+        "material_type": "Stainless steel",
+        "quantity": "1 unit",
+        "purpose": "For making incisions"
+      },
+      {
+        "name": "Suture Kit",
+        "material_type": "Various (needle: stainless steel, thread: silk or synthetic)",
+        "quantity": "1 unit",
+        "purpose": "For closing wounds or surgical incisions"
+      },
+      {
+        "name": "Sterile Drapes",
+        "material_type": "Polyester or Polyethylene",
+        "quantity": "2 units",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Adhesive Bandages",
+        "material_type": "Plastic, adhesive, and absorbent pad",
+        "quantity": "5 units",
+        "purpose": "For covering small wounds or incisions"
+      },
+      {
+        "name": "Medicated Ointment",
+        "material_type": "Petroleum jelly with antibiotic",
+        "quantity": "1 tube",
+        "purpose": "To prevent infection in minor cuts, scrapes, and burns"
+      },
+      {
+        "name": "Disposable Syringe",
+        "material_type": "Plastic",
+        "quantity": "1 unit",
+        "purpose": "For injecting or withdrawing fluids"
+      },
+      {
+        "name": "Needles",
+        "material_type": "Stainless steel",
+        "quantity": "3 units",
+        "purpose": "For use with the syringe to inject or withdraw fluids"
+      },
+      {
+        "name": "Alcohol Swabs",
+        "material_type": "Non-woven fabric with isopropyl alcohol",
+        "quantity": "5 units",
+        "purpose": "To disinfect the skin before injections or minor surgical procedures"
+      },
+      {
+        "name": "Tweezers",
+        "material_type": "Stainless steel",
+        "quantity": "1 unit",
+        "purpose": "For grasping small objects or removing debris from wounds"
+      },
+      {
+        "name": "Scissors",
+        "material_type": "Stainless steel",
+        "quantity": "1 unit",
+        "purpose": "For cutting bandages, gauze, or other materials"
+      }
+    ],
+    "previous_bom_index": 7,
+    "updated_at": "2025-03-25T09:18:56.266Z"
+  },
+  {
+    "product_name": "Orthopaedic bone screw non-sliding",
+    "manufacturer": "OrthoMed Devices Inc.",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "100%",
+        "purpose_function": "Provides strength, durability, and biocompatibility for the screw"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "1",
+        "purpose_function": "Screw body - main structural component that interfaces with bone"
+      },
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "1",
+        "purpose_function": "Screw head - designed to engage with surgical instruments for insertion"
+      },
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose_function": "Locking mechanism - ensures the screw remains securely in place"
+      }
+    ],
+    "previous_bom_index": 8,
+    "updated_at": "2025-03-25T09:19:14.139Z"
+  },
+  {
+    "product_name": "Dental implant suprastructure permanent preformed",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Titanium base",
+        "material": "Titanium",
+        "quantity": 1,
+        "purpose": "Serves as the foundation for the suprastructure, providing strength and biocompatibility."
+      },
+      {
+        "name": "Abutment screw",
+        "material": "Titanium alloy",
+        "quantity": 1,
+        "purpose": "Secures the abutment to the implant, ensuring stability and durability."
+      },
+      {
+        "name": "Porcelain crown",
+        "material": "Porcelain",
+        "quantity": 1,
+        "purpose": "Mimics the appearance of a natural tooth, providing aesthetic appeal and functionality."
+      },
+      {
+        "name": "Cement",
+        "material": "Dental resin cement",
+        "quantity": "As needed",
+        "purpose": "Used to bond the crown to the abutment, ensuring a secure fit."
+      },
+      {
+        "name": "Impression material",
+        "material": "Polyvinyl siloxane",
+        "quantity": "As needed",
+        "purpose": "Used to create an accurate mold of the patient's mouth for the fabrication of the suprastructure."
+      },
+      {
+        "name": "Temporary crown",
+        "material": "Acrylic",
+        "quantity": 1,
+        "purpose": "Provides temporary protection and aesthetics while the permanent crown is being fabricated."
+      },
+      {
+        "name": "Healing abutment",
+        "material": "Titanium",
+        "quantity": 1,
+        "purpose": "Placed on the implant during the healing process to shape the gum tissue appropriately."
+      },
+      {
+        "name": "Final abutment",
+        "material": "Titanium or Zirconia",
+        "quantity": 1,
+        "purpose": "Connects the implant to the crown, designed to match the patient's gum line and aesthetic needs."
+      }
+    ],
+    "previous_bom_index": 9,
+    "updated_at": "2025-03-25T09:19:39.582Z"
+  },
+  {
+    "product_name": "Metallic spinal interbody fusion cage",
+    "manufacturer": "SpineTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "100%",
+        "purpose": "Provides structural support and biocompatibility"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "1",
+        "purpose": "Main cage structure for spinal support"
+      },
+      {
+        "material_type": "Porous Titanium Coating",
+        "quantity": "1",
+        "purpose": "Enhances bone ingrowth and fusion"
+      },
+      {
+        "material_type": "Sterile Packaging",
+        "quantity": "1",
+        "purpose": "Ensures product sterility until use"
+      }
+    ],
+    "previous_bom_index": 10,
+    "updated_at": "2025-03-25T09:19:53.836Z"
+  },
+  {
+    "product_name": "Prescription spectacles",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Lenses",
+        "material": "Plastic or Glass",
+        "quantity": "2",
+        "description": "Custom-made to correct the wearer's vision according to their prescription."
+      },
+      {
+        "name": "Frames",
+        "material": "Metal, Plastic, or Composite materials",
+        "quantity": "1",
+        "description": "Holds the lenses in place and supports them on the wearer's face."
+      },
+      {
+        "name": "Nose pads",
+        "material": "Silicone or Plastic",
+        "quantity": "2",
+        "description": "Provides comfort and helps keep the spectacles in place on the nose."
+      },
+      {
+        "name": "Temple arms",
+        "material": "Metal, Plastic, or Composite materials",
+        "quantity": "2",
+        "description": "Extends over the ears to help hold the spectacles in place."
+      },
+      {
+        "name": "Hinges",
+        "material": "Metal",
+        "quantity": "2",
+        "description": "Allows the temple arms to fold inward for storage."
+      },
+      {
+        "name": "Screws",
+        "material": "Metal",
+        "quantity": "4",
+        "description": "Holds the components of the spectacles together."
+      },
+      {
+        "name": "Lens Coating",
+        "material": "Anti-reflective, UV protection, or Scratch-resistant coating",
+        "quantity": "As per prescription",
+        "description": "Enhances lens performance and durability."
+      }
+    ],
+    "previous_bom_index": 11,
+    "updated_at": "2025-03-25T09:20:14.551Z"
+  },
+  {
+    "product_name": "Diamond dental bur reusable",
+    "manufacturer": "DentalTech Innovations",
+    "product_origin": "Switzerland",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Diamond grit",
+        "material": "Synthetic diamond",
+        "quantity": "0.5 carats",
+        "purpose": "Abrasive material for precise cutting or grinding of dental materials"
+      },
+      {
+        "name": "Bur head",
+        "material": "Tungsten carbide",
+        "quantity": "1 unit",
+        "purpose": "Durable base structure that securely holds the diamond grit for optimal performance"
+      },
+      {
+        "name": "Shaft",
+        "material": "Medical-grade stainless steel",
+        "quantity": "1 unit",
+        "purpose": "Ensures a secure connection between the bur head and the dental handpiece, facilitating precise control"
+      },
+      {
+        "name": "Neck",
+        "material": "Medical-grade stainless steel",
+        "quantity": "1 unit",
+        "purpose": "Provides the necessary flexibility and strength to connect the shaft to the bur head, enhancing maneuverability"
+      },
+      {
+        "name": "Sterilization indicator",
+        "material": "Heat-sensitive ink",
+        "quantity": "1 strip",
+        "purpose": "Ensures the bur has been properly sterilized before reuse, maintaining hygiene standards"
+      }
+    ],
+    "previous_bom_index": 12,
+    "updated_at": "2025-03-25T09:20:32.931Z"
+  },
+  {
+    "product_name": "Tinted non-prescription spectacles",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Frame",
+        "material": "Plastic or Metal",
+        "quantity": "1",
+        "description": "The structure that holds the lenses in place."
+      },
+      {
+        "name": "Lenses",
+        "material": "Polycarbonate or CR-39",
+        "quantity": "2",
+        "description": "Tinted to reduce glare and protect eyes from sunlight."
+      },
+      {
+        "name": "Nose Pads",
+        "material": "Silicone or Plastic",
+        "quantity": "2",
+        "description": "Provides comfort and helps keep the spectacles in place on the nose."
+      },
+      {
+        "name": "Temple Tips",
+        "material": "Silicone or Plastic",
+        "quantity": "2",
+        "description": "The end part of the temples that rests on the ears for additional comfort."
+      },
+      {
+        "name": "Hinges",
+        "material": "Metal",
+        "quantity": "2",
+        "description": "Allows the temples to fold inward."
+      },
+      {
+        "name": "Screws",
+        "material": "Metal",
+        "quantity": "4",
+        "description": "Used to secure the hinges to the frame and temples."
+      }
+    ],
+    "previous_bom_index": 13,
+    "updated_at": "2025-03-25T09:20:51.206Z"
+  },
+  {
+    "product_name": "Orthopaedic surgical procedure kit non-medicated single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile drapes",
+        "material_type": "Polypropylene",
+        "quantity": "4",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Scalpel blades",
+        "material_type": "Stainless steel",
+        "quantity": "5",
+        "purpose": "For making incisions"
+      },
+      {
+        "name": "Surgical gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "2 pairs",
+        "purpose": "To maintain sterility and protect the surgical team"
+      },
+      {
+        "name": "Sutures",
+        "material_type": "Polyglycolic acid",
+        "quantity": "10",
+        "purpose": "For closing incisions"
+      },
+      {
+        "name": "Needles",
+        "material_type": "Stainless steel",
+        "quantity": "10",
+        "purpose": "For suturing"
+      },
+      {
+        "name": "Gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "20",
+        "purpose": "For cleaning and absorbing fluids"
+      },
+      {
+        "name": "Adhesive bandages",
+        "material_type": "Polyethylene",
+        "quantity": "10",
+        "purpose": "For minor wound coverage"
+      },
+      {
+        "name": "Antiseptic wipes",
+        "material_type": "Non-woven fabric with antiseptic solution",
+        "quantity": "10",
+        "purpose": "For skin disinfection"
+      },
+      {
+        "name": "Surgical masks",
+        "material_type": "Polypropylene",
+        "quantity": "2",
+        "purpose": "To reduce the risk of infection"
+      },
+      {
+        "name": "Bone cement",
+        "material_type": "Polymethylmethacrylate",
+        "quantity": "1 packet",
+        "purpose": "For prosthetic fixation"
+      },
+      {
+        "name": "Drill bits",
+        "material_type": "Titanium",
+        "quantity": "5",
+        "purpose": "For bone drilling"
+      },
+      {
+        "name": "Screws and plates",
+        "material_type": "Titanium",
+        "quantity": "Various",
+        "purpose": "For bone fixation"
+      },
+      {
+        "name": "Wire for fixation",
+        "material_type": "Stainless steel",
+        "quantity": "1 roll",
+        "purpose": "For temporary bone fixation"
+      },
+      {
+        "name": "Syringes",
+        "material_type": "Polypropylene",
+        "quantity": "5",
+        "purpose": "For irrigation and medication administration"
+      },
+      {
+        "name": "Irrigation solution",
+        "material_type": "Sterile saline",
+        "quantity": "500ml",
+        "purpose": "For wound irrigation"
+      },
+      {
+        "name": "Disposable gowns",
+        "material_type": "Polypropylene",
+        "quantity": "2",
+        "purpose": "For maintaining sterility of the surgical team"
+      },
+      {
+        "name": "Protective eyewear",
+        "material_type": "Polycarbonate",
+        "quantity": "2",
+        "purpose": "To protect the eyes from splashes"
+      }
+    ],
+    "previous_bom_index": 14,
+    "updated_at": "2025-03-25T09:21:30.038Z"
+  },
+  {
+    "product_name": "Orthopaedic prosthesis implantation positioning instrument reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Positioning Guide",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Guides the prosthesis into the correct position during implantation"
+      },
+      {
+        "name": "Adjustment Screw",
+        "material": "Titanium",
+        "quantity": 2,
+        "purpose": "Allows for fine adjustments to the positioning of the prosthesis"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Secures the prosthesis in place once the correct position is achieved"
+      },
+      {
+        "name": "Handle",
+        "material": "Aluminum",
+        "quantity": 1,
+        "purpose": "Provides grip and control for the surgeon during the implantation process"
+      },
+      {
+        "name": "Measurement Scale",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Ensures accurate measurement and alignment of the prosthesis"
+      },
+      {
+        "name": "Base Plate",
+        "material": "Titanium",
+        "quantity": 1,
+        "purpose": "Serves as the foundation for the prosthesis, ensuring stability"
+      },
+      {
+        "name": "Sterilization Cap",
+        "material": "Medical Grade Plastic",
+        "quantity": 1,
+        "purpose": "Protects the instrument during sterilization processes"
+      }
+    ],
+    "previous_bom_index": 15,
+    "updated_at": "2025-03-25T09:21:50.742Z"
+  },
+  {
+    "product_name": "Orthodontic bracket metal",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [
+      {
+        "material_type": "Stainless Steel",
+        "percentage": "70%",
+        "purpose": "Provides strength and corrosion resistance"
+      },
+      {
+        "material_type": "Nickel",
+        "percentage": "10%",
+        "purpose": "Enhances ductility and resistance to corrosion"
+      },
+      {
+        "material_type": "Chromium",
+        "percentage": "18%",
+        "purpose": "Improves hardness and resistance to tarnish and corrosion"
+      },
+      {
+        "material_type": "Molybdenum",
+        "percentage": "2%",
+        "purpose": "Increases strength and resistance to pitting corrosion"
+      }
+    ],
+    "components": [
+      {
+        "component_name": "Bracket body",
+        "material_type": "Stainless Steel alloy",
+        "quantity": "1",
+        "purpose": "Main structure that holds the archwire"
+      },
+      {
+        "component_name": "Slot for archwire",
+        "material_type": "Stainless Steel alloy",
+        "quantity": "1",
+        "purpose": "Channel for the archwire to sit in and apply force to the teeth"
+      },
+      {
+        "component_name": "Tie wings",
+        "material_type": "Stainless Steel alloy",
+        "quantity": "2",
+        "purpose": "Used to secure the archwire with ligatures or elastics"
+      },
+      {
+        "component_name": "Base for adhesion to tooth",
+        "material_type": "Stainless Steel alloy with mesh",
+        "quantity": "1",
+        "purpose": "Provides a surface for bonding the bracket to the tooth with adhesive"
+      }
+    ],
+    "previous_bom_index": 16,
+    "updated_at": "2025-03-25T09:22:13.121Z"
+  },
+  {
+    "product_name": "Tracheostomy tube non-reinforced non-customized reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Outer Cannula",
+        "material": "Medical grade silicone or PVC",
+        "quantity": "1",
+        "purpose": "Main body of the tracheostomy tube that is inserted into the trachea."
+      },
+      {
+        "name": "Inner Cannula",
+        "material": "Medical grade silicone or PVC",
+        "quantity": "1",
+        "purpose": "Removable tube that fits inside the outer cannula to prevent blockage and can be cleaned or replaced."
+      },
+      {
+        "name": "Obturator",
+        "material": "Medical grade silicone or PVC",
+        "quantity": "1",
+        "purpose": "Guide used during insertion of the tracheostomy tube to smooth the process and reduce trauma."
+      },
+      {
+        "name": "Flange",
+        "material": "Medical grade silicone or PVC",
+        "quantity": "1",
+        "purpose": "Flat plate that sits against the neck to secure the tracheostomy tube in place."
+      },
+      {
+        "name": "15mm Connector",
+        "material": "Medical grade plastic",
+        "quantity": "1",
+        "purpose": "Standard connector for attachment to ventilation equipment."
+      },
+      {
+        "name": "Tie Holes",
+        "material": "Medical grade plastic or fabric",
+        "quantity": "2",
+        "purpose": "Openings in the flange for securing the tracheostomy tube with ties or straps around the neck."
+      }
+    ],
+    "previous_bom_index": 17,
+    "updated_at": "2025-03-25T09:22:33.018Z"
+  },
+  {
+    "product_name": "Orthopaedic bone screw non-bioabsorbable non-sterile",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Titanium Alloy",
+        "quantity": "100%",
+        "purpose_function": "Provides strength and durability for the screw"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium Alloy",
+        "quantity": "1",
+        "purpose_function": "Main body of the screw"
+      },
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose_function": "Screw head for tool engagement"
+      },
+      {
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose_function": "Cap for the screw head to prevent tissue damage"
+      }
+    ],
+    "previous_bom_index": 18,
+    "updated_at": "2025-03-25T09:22:48.875Z"
+  },
+  {
+    "product_name": "Spinal implant trial",
+    "manufacturer": "MedTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Titanium alloy",
+        "quantity": "95%",
+        "purpose": "Provides structural support and biocompatibility"
+      },
+      {
+        "material_type": "Polyether ether ketone (PEEK)",
+        "quantity": "5%",
+        "purpose": "Enhances flexibility and reduces wear"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium screws",
+        "quantity": "4",
+        "purpose": "Secures the implant to the vertebrae"
+      },
+      {
+        "material_type": "PEEK spacer",
+        "quantity": "1",
+        "purpose": "Maintains disc height and absorbs shock"
+      },
+      {
+        "material_type": "Sterile packaging",
+        "quantity": "1",
+        "purpose": "Ensures product sterility until use"
+      }
+    ],
+    "previous_bom_index": 19,
+    "updated_at": "2025-03-25T09:23:04.055Z"
+  },
+  {
+    "product_name": "Bone-screw internal spinal fixation system rod",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Titanium Rod",
+        "material": "Titanium",
+        "quantity": 1,
+        "purpose": "Main structural component that provides support and alignment to the spinal column."
+      },
+      {
+        "name": "Bone Screws",
+        "material": "Titanium",
+        "quantity": "Variable",
+        "purpose": "Anchor the rod to the vertebrae, providing stability and facilitating spinal fusion."
+      },
+      {
+        "name": "Connector",
+        "material": "Titanium",
+        "quantity": "As needed",
+        "purpose": "Links multiple rods or components together to extend the length or adjust the configuration of the fixation system."
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Titanium or Stainless Steel",
+        "quantity": "As needed",
+        "purpose": "Secures the bone screws to the rod, preventing movement and ensuring the stability of the spinal fixation."
+      },
+      {
+        "name": "Spinal Rod Bender",
+        "material": "Surgical Steel",
+        "quantity": 1,
+        "purpose": "Tool used to contour the titanium rod to match the patient's spinal curvature during surgery."
+      },
+      {
+        "name": "Surgical Tools for Installation",
+        "material": "Stainless Steel",
+        "quantity": "Set",
+        "purpose": "Includes various instruments required for the precise placement and adjustment of the fixation system components during the surgical procedure."
+      },
+      {
+        "name": "Sterilization Packaging",
+        "material": "Medical-grade Plastic",
+        "quantity": 1,
+        "purpose": "Ensures the sterility of the components until they are ready for use in the surgical procedure."
+      }
+    ],
+    "previous_bom_index": 20,
+    "updated_at": "2025-03-25T09:23:26.925Z"
+  },
+  {
+    "product_name": "Orthopaedic surgical procedure kit medicated",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile Gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "1 pair",
+        "purpose": "To ensure sterile handling of surgical instruments and patient"
+      },
+      {
+        "name": "Surgical Scalpel",
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "For making precise incisions"
+      },
+      {
+        "name": "Sterile Drapes",
+        "material_type": "Non-woven Fabric",
+        "quantity": "4",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Antiseptic Wipes",
+        "material_type": "Alcohol-based Solution",
+        "quantity": "10",
+        "purpose": "For disinfecting the skin before incision"
+      },
+      {
+        "name": "Gauze Sponges",
+        "material_type": "Cotton",
+        "quantity": "10",
+        "purpose": "For absorbing fluids and cleaning the surgical site"
+      },
+      {
+        "name": "Sutures",
+        "material_type": "Synthetic or Natural Fibers",
+        "quantity": "1 pack",
+        "purpose": "For closing incisions or wounds"
+      },
+      {
+        "name": "Surgical Needles",
+        "material_type": "Stainless Steel",
+        "quantity": "5",
+        "purpose": "For suturing tissues"
+      },
+      {
+        "name": "Bone Cement",
+        "material_type": "Polymethylmethacrylate (PMMA)",
+        "quantity": "50g",
+        "purpose": "For securing implants to bone"
+      },
+      {
+        "name": "Antibiotic Powder",
+        "material_type": "Tobramycin or Vancomycin",
+        "quantity": "5g",
+        "purpose": "To prevent infection at the surgical site"
+      },
+      {
+        "name": "Local Anesthetic",
+        "material_type": "Lidocaine or Bupivacaine",
+        "quantity": "10ml",
+        "purpose": "For numbing the surgical area"
+      },
+      {
+        "name": "Syringes",
+        "material_type": "Plastic",
+        "quantity": "2",
+        "purpose": "For administering medications or anesthetics"
+      },
+      {
+        "name": "Needles for Injection",
+        "material_type": "Stainless Steel",
+        "quantity": "2",
+        "purpose": "For delivering medications or anesthetics"
+      },
+      {
+        "name": "Orthopaedic Implant",
+        "material_type": "Titanium or Stainless Steel",
+        "quantity": "As required",
+        "purpose": "For bone fixation or replacement"
+      },
+      {
+        "name": "Surgical Drill Bits",
+        "material_type": "Stainless Steel",
+        "quantity": "Set",
+        "purpose": "For drilling into bone to place screws or implants"
+      },
+      {
+        "name": "Bone Screws",
+        "material_type": "Titanium or Stainless Steel",
+        "quantity": "As required",
+        "purpose": "For securing implants or plates to bone"
+      },
+      {
+        "name": "Plates",
+        "material_type": "Titanium or Stainless Steel",
+        "quantity": "As required",
+        "purpose": "For stabilizing fractures or securing implants"
+      }
+    ],
+    "previous_bom_index": 21,
+    "updated_at": "2025-03-25T09:24:06.138Z"
+  },
+  {
+    "product_name": "Orthopaedic fixation plate non-bioabsorbable",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "100%",
+        "purpose": "Provides structural support and durability"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Screws",
+        "quantity": "varies",
+        "purpose": "Secures the plate to the bone"
+      },
+      {
+        "material_type": "Locking Mechanism",
+        "quantity": "1 per plate",
+        "purpose": "Ensures screws remain securely in place"
+      },
+      {
+        "material_type": "Coating",
+        "quantity": "thin layer",
+        "purpose": "Reduces friction and prevents corrosion"
+      }
+    ],
+    "previous_bom_index": 22,
+    "updated_at": "2025-03-25T09:24:19.334Z"
+  },
+  {
+    "product_name": "Screw endosteal dental implant two-piece",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Implant body",
+        "material": "Titanium or Titanium alloy",
+        "quantity": "1",
+        "description": "The main part of the implant that is inserted into the jawbone."
+      },
+      {
+        "name": "Abutment",
+        "material": "Titanium, Titanium alloy, or Zirconia",
+        "quantity": "1",
+        "description": "The connecting piece that attaches to the implant body and supports the crown."
+      },
+      {
+        "name": "Screw",
+        "material": "Titanium or Titanium alloy",
+        "quantity": "1",
+        "description": "Used to secure the abutment to the implant body."
+      },
+      {
+        "name": "Crown",
+        "material": "Porcelain, Ceramic, or Metal alloy",
+        "quantity": "1",
+        "description": "The visible part of the implant that resembles a natural tooth."
+      },
+      {
+        "name": "Healing cap",
+        "material": "Titanium or Plastic",
+        "quantity": "1",
+        "description": "A temporary cover placed over the implant during the healing process."
+      },
+      {
+        "name": "Impression coping",
+        "material": "Titanium or Plastic",
+        "quantity": "1",
+        "description": "Used to take an impression of the implant position for crown fabrication."
+      },
+      {
+        "name": "Analog",
+        "material": "Titanium or Plastic",
+        "quantity": "1",
+        "description": "A replica of the implant used in the laboratory to fabricate the crown."
+      }
+    ],
+    "previous_bom_index": 23,
+    "updated_at": "2025-03-25T09:24:40.680Z"
+  },
+  {
+    "product_name": "Orthodontic metal band",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Stainless Steel",
+        "material_type": "Alloy",
+        "quantity": "70%",
+        "purpose": "Main structural material providing strength and durability"
+      },
+      {
+        "name": "Nickel",
+        "material_type": "Metal",
+        "quantity": "8%",
+        "purpose": "Enhances corrosion resistance and adds to the material's luster"
+      },
+      {
+        "name": "Chromium",
+        "material_type": "Metal",
+        "quantity": "18%",
+        "purpose": "Improves corrosion resistance and hardness"
+      },
+      {
+        "name": "Molybdenum",
+        "material_type": "Metal",
+        "quantity": "3%",
+        "purpose": "Increases strength and resistance to pitting corrosion"
+      },
+      {
+        "name": "Silicon",
+        "material_type": "Metalloid",
+        "quantity": "0.5%",
+        "purpose": "Used in small amounts to improve casting quality"
+      },
+      {
+        "name": "Carbon",
+        "material_type": "Non-metal",
+        "quantity": "0.5%",
+        "purpose": "Increases hardness and strength"
+      },
+      {
+        "name": "Phosphorus",
+        "material_type": "Non-metal",
+        "quantity": "0.05%",
+        "purpose": "Trace element that can affect the metal's properties"
+      },
+      {
+        "name": "Sulfur",
+        "material_type": "Non-metal",
+        "quantity": "0.03%",
+        "purpose": "Trace element that can affect the metal's properties"
+      }
+    ],
+    "previous_bom_index": 24,
+    "updated_at": "2025-03-25T09:25:02.172Z"
+  },
+  {
+    "product_name": "Air-conduction hearing aid behind-the-ear",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Microphone",
+        "material_type": "Electret condenser",
+        "quantity": "1",
+        "purpose": "Captures sound from the environment"
+      },
+      {
+        "name": "Amplifier",
+        "material_type": "Digital signal processor",
+        "quantity": "1",
+        "purpose": "Processes and amplifies the sound"
+      },
+      {
+        "name": "Speaker",
+        "material_type": "Dynamic receiver",
+        "quantity": "1",
+        "purpose": "Delivers amplified sound into the ear"
+      },
+      {
+        "name": "Battery compartment",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "Holds the battery powering the device"
+      },
+      {
+        "name": "Ear hook",
+        "material_type": "Silicone",
+        "quantity": "1",
+        "purpose": "Secures the hearing aid behind the ear"
+      },
+      {
+        "name": "Ear mold",
+        "material_type": "Acrylic or silicone",
+        "quantity": "1",
+        "purpose": "Custom fit to direct sound into the ear canal"
+      },
+      {
+        "name": "Volume control",
+        "material_type": "Potentiometer",
+        "quantity": "1",
+        "purpose": "Adjusts the loudness of the sound"
+      },
+      {
+        "name": "Program button",
+        "material_type": "Tactile switch",
+        "quantity": "1",
+        "purpose": "Allows switching between different hearing programs"
+      },
+      {
+        "name": "Housing",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "Protects internal components and provides structure"
+      }
+    ],
+    "previous_bom_index": 25,
+    "updated_at": "2025-03-25T09:25:26.143Z"
+  },
+  {
+    "product_name": "General surgical procedure kit non-medicated reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Scalpel handle",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "To hold scalpel blades for making incisions"
+      },
+      {
+        "name": "Scalpel blades",
+        "material_type": "Stainless steel",
+        "quantity": "5",
+        "purpose": "For making precise incisions"
+      },
+      {
+        "name": "Surgical scissors",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For cutting tissue or sutures"
+      },
+      {
+        "name": "Forceps",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For grasping or holding tissue"
+      },
+      {
+        "name": "Hemostats",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For clamping blood vessels to stop bleeding"
+      },
+      {
+        "name": "Needle holder",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For holding suturing needles during procedures"
+      },
+      {
+        "name": "Surgical needles",
+        "material_type": "Stainless steel",
+        "quantity": "10",
+        "purpose": "For suturing wounds or surgical sites"
+      },
+      {
+        "name": "Suture material",
+        "material_type": "Various (e.g., silk, nylon)",
+        "quantity": "5",
+        "purpose": "For closing wounds or surgical sites"
+      },
+      {
+        "name": "Towel clamps",
+        "material_type": "Stainless steel",
+        "quantity": "4",
+        "purpose": "For securing drapes around the surgical site"
+      },
+      {
+        "name": "Retractors",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For holding back tissues to expose the surgical site"
+      },
+      {
+        "name": "Drapes",
+        "material_type": "Disposable fabric",
+        "quantity": "5",
+        "purpose": "For maintaining a sterile field around the surgical site"
+      },
+      {
+        "name": "Gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "20",
+        "purpose": "For absorbing fluids and cleaning the surgical site"
+      },
+      {
+        "name": "Surgical gloves",
+        "material_type": "Latex or nitrile",
+        "quantity": "2 pairs",
+        "purpose": "For maintaining sterility and protecting the wearer"
+      },
+      {
+        "name": "Specimen container",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "For holding tissue samples for analysis"
+      },
+      {
+        "name": "Instrument tray",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For organizing and sterilizing instruments"
+      }
+    ],
+    "previous_bom_index": 26,
+    "updated_at": "2025-03-25T09:26:01.874Z"
+  },
+  {
+    "product_name": "Spinal fixation plate non-bioabsorbable",
+    "manufacturer": "Example Manufacturer Inc.",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "100%",
+        "purpose": "Provides strength and biocompatibility for the plate"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": "1",
+        "purpose": "Main plate body for structural support"
+      },
+      {
+        "material_type": "Stainless Steel Screws",
+        "quantity": "6",
+        "purpose": "For securing the plate to the vertebrae"
+      },
+      {
+        "material_type": "Polyethylene Spacer",
+        "quantity": "2",
+        "purpose": "To maintain distance between vertebrae and reduce friction"
+      }
+    ],
+    "previous_bom_index": 27,
+    "updated_at": "2025-03-25T09:26:18.797Z"
+  },
+  {
+    "product_name": "Instrument tray reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Tray Base",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Provides the main structure and support for the tray"
+      },
+      {
+        "name": "Tray Lid",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Covers the tray to protect and secure the instruments"
+      },
+      {
+        "name": "Handles",
+        "material": "Stainless Steel",
+        "quantity": 2,
+        "purpose": "Facilitates easy carrying and transportation of the tray"
+      },
+      {
+        "name": "Rubber Feet",
+        "material": "Rubber",
+        "quantity": 4,
+        "purpose": "Prevents slipping and protects surfaces from scratches"
+      },
+      {
+        "name": "Instrument Holders",
+        "material": "Plastic",
+        "quantity": "Variable",
+        "purpose": "Secures instruments in place during transport and storage"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Ensures the lid remains securely closed during transport"
+      },
+      {
+        "name": "Label Holder",
+        "material": "Plastic",
+        "quantity": 1,
+        "purpose": "Allows for identification and tracking of the tray contents"
+      }
+    ],
+    "previous_bom_index": 28,
+    "updated_at": "2025-03-25T09:26:38.912Z"
+  },
+  {
+    "product_name": "Spectacle frame",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Frame Front",
+        "material": "Acetate or Metal",
+        "quantity": 1,
+        "purpose": "Holds the lenses in place and forms the front structure of the frame"
+      },
+      {
+        "name": "Temples",
+        "material": "Acetate or Metal",
+        "quantity": 2,
+        "purpose": "Extend over the ears to hold the frame in place"
+      },
+      {
+        "name": "Nose Pads",
+        "material": "Silicone",
+        "quantity": 2,
+        "purpose": "Provide comfort and grip on the nose"
+      },
+      {
+        "name": "Hinges",
+        "material": "Metal",
+        "quantity": 2,
+        "purpose": "Allow the temples to fold inward"
+      },
+      {
+        "name": "Screws",
+        "material": "Metal",
+        "quantity": "As required",
+        "purpose": "Secure the hinges to the frame front and temples"
+      },
+      {
+        "name": "End Pieces",
+        "material": "Acetate or Metal",
+        "quantity": 2,
+        "purpose": "Decorative or functional ends of the temples"
+      },
+      {
+        "name": "Lens",
+        "material": "Polycarbonate or Glass",
+        "quantity": 2,
+        "purpose": "Corrective or protective elements that are held by the frame front"
+      },
+      {
+        "name": "Temple Tips",
+        "material": "Silicone or Rubber",
+        "quantity": 2,
+        "purpose": "Provide additional comfort and grip at the end of the temples"
+      }
+    ],
+    "previous_bom_index": 29,
+    "updated_at": "2025-03-25T09:27:01.621Z"
+  },
+  {
+    "product_name": "Cardiothoracic surgical procedure kit medicated single-use",
+    "manufacturer": "MedTech Innovations Inc.",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Antimicrobial coating",
+        "quantity": "5%",
+        "purpose": "To reduce the risk of infection"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "Surgical scissors for cutting tissue"
+      },
+      {
+        "material_type": "Titanium",
+        "quantity": "1",
+        "purpose": "Forceps for grasping or holding tissue"
+      },
+      {
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "Syringe for administering medication"
+      },
+      {
+        "material_type": "Silicone",
+        "quantity": "1",
+        "purpose": "Drain tube for removing fluids"
+      },
+      {
+        "material_type": "Cotton",
+        "quantity": "5",
+        "purpose": "Gauze pads for cleaning and dressing wounds"
+      },
+      {
+        "material_type": "Latex-free rubber",
+        "quantity": "1",
+        "purpose": "Tourniquet for restricting blood flow"
+      },
+      {
+        "material_type": "Polypropylene",
+        "quantity": "1",
+        "purpose": "Suture for closing incisions"
+      }
+    ],
+    "previous_bom_index": 30,
+    "updated_at": "2025-03-25T09:27:20.831Z"
+  },
+  {
+    "product_name": "Posterior-chamber intraocular lens pseudophakic",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Silicone",
+        "quantity": "60%",
+        "purpose": "Provides flexibility and biocompatibility"
+      },
+      {
+        "material_type": "Acrylic",
+        "quantity": "30%",
+        "purpose": "Ensures optical clarity and durability"
+      },
+      {
+        "material_type": "UV Absorber",
+        "quantity": "10%",
+        "purpose": "Protects the eye from harmful UV rays"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Haptic",
+        "quantity": "2",
+        "purpose": "Secures the lens in place within the eye"
+      },
+      {
+        "material_type": "Optic",
+        "quantity": "1",
+        "purpose": "The central part of the lens that focuses light onto the retina"
+      }
+    ],
+    "previous_bom_index": 31,
+    "updated_at": "2025-03-25T09:27:35.933Z"
+  },
+  {
+    "product_name": "Trans-facet-screw internal spinal fixation system sterile",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Trans-facet Screw",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "size": "Various",
+        "quantity": 1,
+        "purpose": "Provides the primary fixation by anchoring into the facet joints of the vertebrae."
+      },
+      {
+        "name": "Rod",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "size": "Various",
+        "quantity": 1,
+        "purpose": "Connects the screws to provide stability and alignment to the spinal segment."
+      },
+      {
+        "name": "Connector",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "size": "Various",
+        "quantity": 1,
+        "purpose": "Links the rod and screws, allowing for adjustment and secure attachment."
+      },
+      {
+        "name": "Locking Screw",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "size": "Various",
+        "quantity": 2,
+        "purpose": "Secures the rod within the connector to prevent movement post-implantation."
+      },
+      {
+        "name": "Sterile Packaging",
+        "material": "Medical Grade Tyvek and Plastic",
+        "size": "N/A",
+        "quantity": 1,
+        "purpose": "Ensures the product remains sterile until use in a surgical setting."
+      }
+    ],
+    "previous_bom_index": 32,
+    "updated_at": "2025-03-25T09:27:57.003Z"
+  },
+  {
+    "product_name": "Mechanical-resistance external ankle-foot prosthesis",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Ankle Joint Mechanism",
+        "material": "High-grade aluminum alloy",
+        "quantity": 1,
+        "purpose": "Provides the primary pivot point for ankle movement, ensuring durability and lightweight performance."
+      },
+      {
+        "name": "Foot Shell",
+        "material": "Carbon fiber composite",
+        "quantity": 1,
+        "purpose": "Offers structural support and mimics the natural foot's flexibility and strength."
+      },
+      {
+        "name": "Shock Absorber",
+        "material": "Polyurethane elastomer",
+        "quantity": 1,
+        "purpose": "Absorbs impact forces during walking or running, enhancing comfort and reducing wear on other components."
+      },
+      {
+        "name": "Adjustment Screws",
+        "material": "Stainless steel",
+        "quantity": 4,
+        "purpose": "Allows for fine-tuning of the prosthesis's fit and alignment to the user's specific needs."
+      },
+      {
+        "name": "Cosmetic Cover",
+        "material": "Silicone",
+        "quantity": 1,
+        "purpose": "Provides a natural appearance and protects internal components from dust and moisture."
+      },
+      {
+        "name": "Mounting Plate",
+        "material": "Titanium",
+        "quantity": 1,
+        "purpose": "Serves as the attachment point between the prosthesis and the user's residual limb, ensuring a secure and stable connection."
+      },
+      {
+        "name": "Fasteners",
+        "material": "Stainless steel",
+        "quantity": 8,
+        "purpose": "Secures all components together, providing structural integrity and reliability."
+      },
+      {
+        "name": "Heel Pad",
+        "material": "Rubber",
+        "quantity": 1,
+        "purpose": "Enhances grip and absorbs additional shock during heel strike, improving stability and comfort."
+      },
+      {
+        "name": "Toe Spring",
+        "material": "Spring steel",
+        "quantity": 1,
+        "purpose": "Facilitates a natural toe-off during walking, improving gait efficiency."
+      }
+    ],
+    "previous_bom_index": 33,
+    "updated_at": "2025-03-25T09:28:24.085Z"
+  },
+  {
+    "product_name": "Orthopaedic surgical procedure kit non-medicated reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Scalpel handles",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "To hold scalpel blades for making incisions"
+      },
+      {
+        "name": "Scalpel blades",
+        "material_type": "Stainless steel",
+        "quantity": "10",
+        "purpose": "For making precise incisions"
+      },
+      {
+        "name": "Surgical scissors",
+        "material_type": "Stainless steel",
+        "quantity": "3",
+        "purpose": "For cutting tissues and sutures"
+      },
+      {
+        "name": "Forceps",
+        "material_type": "Stainless steel",
+        "quantity": "4",
+        "purpose": "For grasping and holding tissues or objects"
+      },
+      {
+        "name": "Retractors",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "To hold back tissues and organs to provide access to the surgical site"
+      },
+      {
+        "name": "Bone cutters",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For cutting bone"
+      },
+      {
+        "name": "Drill bits",
+        "material_type": "Tungsten carbide",
+        "quantity": "5",
+        "purpose": "For drilling into bone"
+      },
+      {
+        "name": "Surgical drills",
+        "material_type": "Stainless steel with tungsten carbide tips",
+        "quantity": "1",
+        "purpose": "For drilling holes in bone"
+      },
+      {
+        "name": "K-wires",
+        "material_type": "Stainless steel",
+        "quantity": "10",
+        "purpose": "For temporary fixation of bone fractures"
+      },
+      {
+        "name": "Screwdrivers",
+        "material_type": "Stainless steel",
+        "quantity": "3",
+        "purpose": "For inserting and removing screws"
+      },
+      {
+        "name": "Bone holding clamps",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For holding bone fragments together"
+      },
+      {
+        "name": "Measuring devices",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For measuring bone dimensions"
+      },
+      {
+        "name": "Suture needles",
+        "material_type": "Stainless steel",
+        "quantity": "20",
+        "purpose": "For suturing tissues"
+      },
+      {
+        "name": "Sutures",
+        "material_type": "Polyester or nylon",
+        "quantity": "10",
+        "purpose": "For closing wounds or surgical incisions"
+      },
+      {
+        "name": "Sterile drapes",
+        "material_type": "Disposable non-woven fabric",
+        "quantity": "5",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "20",
+        "purpose": "For cleaning wounds and absorbing fluids"
+      },
+      {
+        "name": "Sterile gloves",
+        "material_type": "Latex or nitrile",
+        "quantity": "5 pairs",
+        "purpose": "To maintain sterility during the procedure"
+      },
+      {
+        "name": "Surgical masks",
+        "material_type": "Polypropylene",
+        "quantity": "5",
+        "purpose": "To prevent the spread of infection"
+      },
+      {
+        "name": "Protective eyewear",
+        "material_type": "Polycarbonate",
+        "quantity": "2",
+        "purpose": "To protect the eyes from splashes and debris"
+      }
+    ],
+    "previous_bom_index": 34,
+    "updated_at": "2025-03-25T09:29:06.886Z"
+  },
+  {
+    "product_name": "General internal orthopaedic fixation system implantation kit",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Bone screws",
+        "material_type": "Titanium",
+        "quantity": "10",
+        "purpose": "To secure bones together"
+      },
+      {
+        "name": "Plates",
+        "material_type": "Stainless steel",
+        "quantity": "5",
+        "purpose": "To stabilize bone fractures"
+      },
+      {
+        "name": "Rods",
+        "material_type": "Titanium",
+        "quantity": "3",
+        "purpose": "To provide structural support"
+      },
+      {
+        "name": "Pins",
+        "material_type": "Stainless steel",
+        "quantity": "15",
+        "purpose": "To hold bone fragments in place"
+      },
+      {
+        "name": "Wires",
+        "material_type": "Stainless steel",
+        "quantity": "20",
+        "purpose": "To bind bones together"
+      },
+      {
+        "name": "Intramedullary nails",
+        "material_type": "Titanium",
+        "quantity": "2",
+        "purpose": "To align and stabilize long bone fractures"
+      },
+      {
+        "name": "Cannulated screws",
+        "material_type": "Titanium",
+        "quantity": "8",
+        "purpose": "To fixate bones with minimal tissue disruption"
+      },
+      {
+        "name": "Locking screws",
+        "material_type": "Titanium",
+        "quantity": "6",
+        "purpose": "To secure plates to bones without compressing the bone"
+      },
+      {
+        "name": "Non-locking screws",
+        "material_type": "Titanium",
+        "quantity": "6",
+        "purpose": "To compress bone fragments together"
+      },
+      {
+        "name": "Washers",
+        "material_type": "Stainless steel",
+        "quantity": "10",
+        "purpose": "To distribute the load of screws"
+      },
+      {
+        "name": "Drill bits",
+        "material_type": "High-speed steel",
+        "quantity": "5",
+        "purpose": "To create holes for screws"
+      },
+      {
+        "name": "Screwdrivers",
+        "material_type": "Stainless steel",
+        "quantity": "3",
+        "purpose": "To insert and remove screws"
+      },
+      {
+        "name": "Depth gauges",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "To measure the depth of screw holes"
+      },
+      {
+        "name": "Taps",
+        "material_type": "High-speed steel",
+        "quantity": "3",
+        "purpose": "To create threads in bone for screws"
+      },
+      {
+        "name": "Reduction instruments",
+        "material_type": "Stainless steel",
+        "quantity": "4",
+        "purpose": "To align bone fragments"
+      },
+      {
+        "name": "Bending tools",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "To contour plates to fit bones"
+      },
+      {
+        "name": "Templates",
+        "material_type": "Plastic",
+        "quantity": "5",
+        "purpose": "To assist in plate selection and positioning"
+      },
+      {
+        "name": "Sterile packaging",
+        "material_type": "Medical-grade plastic",
+        "quantity": "1",
+        "purpose": "To maintain sterility of components"
+      }
+    ],
+    "previous_bom_index": 35,
+    "updated_at": "2025-03-25T09:29:46.556Z"
+  },
+  {
+    "product_name": "Orthopaedic bone screw non-bioabsorbable sterile",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Titanium Alloy",
+        "quantity": "100%",
+        "purpose_function": "Provides structural integrity and biocompatibility"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Screw Head",
+        "quantity": "1",
+        "purpose_function": "Interface for screwdriver and distributes load"
+      },
+      {
+        "material_type": "Screw Shaft",
+        "quantity": "1",
+        "purpose_function": "Main body that penetrates and holds bone"
+      },
+      {
+        "material_type": "Threads",
+        "quantity": "1",
+        "purpose_function": "Engages bone to provide fixation"
+      },
+      {
+        "material_type": "Sterile Packaging",
+        "quantity": "1",
+        "purpose_function": "Ensures product remains sterile until use"
+      }
+    ],
+    "previous_bom_index": 36,
+    "updated_at": "2025-03-25T09:30:01.346Z"
+  },
+  {
+    "product_name": "Angiography kit",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Catheter",
+        "material_type": "Polyurethane",
+        "quantity": "1",
+        "purpose": "To navigate through blood vessels to the site of imaging"
+      },
+      {
+        "name": "Guidewire",
+        "material_type": "Stainless steel with hydrophilic coating",
+        "quantity": "1",
+        "purpose": "To guide the catheter to the desired location within the vasculature"
+      },
+      {
+        "name": "Contrast media",
+        "material_type": "Iodinated compound",
+        "quantity": "100 ml",
+        "purpose": "To enhance visibility of blood vessels under X-ray"
+      },
+      {
+        "name": "Syringe",
+        "material_type": "Plastic",
+        "quantity": "2",
+        "purpose": "To inject contrast media and flush the catheter"
+      },
+      {
+        "name": "Needle",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "To access the vascular system for catheter insertion"
+      },
+      {
+        "name": "Sterile drapes",
+        "material_type": "Disposable non-woven fabric",
+        "quantity": "1 set",
+        "purpose": "To maintain a sterile field around the procedure site"
+      },
+      {
+        "name": "Gloves",
+        "material_type": "Latex or nitrile",
+        "quantity": "1 pair",
+        "purpose": "To ensure sterile handling of equipment and patient"
+      },
+      {
+        "name": "Gauze",
+        "material_type": "Cotton",
+        "quantity": "5 pieces",
+        "purpose": "To clean and dry the insertion site"
+      },
+      {
+        "name": "Tape",
+        "material_type": "Medical adhesive",
+        "quantity": "1 roll",
+        "purpose": "To secure dressings and catheters"
+      },
+      {
+        "name": "Antiseptic solution",
+        "material_type": "Chlorhexidine or iodine based",
+        "quantity": "10 ml",
+        "purpose": "To disinfect the skin before needle insertion"
+      },
+      {
+        "name": "Local anesthetic",
+        "material_type": "Lidocaine",
+        "quantity": "5 ml",
+        "purpose": "To numb the insertion site"
+      },
+      {
+        "name": "Pressure bandage",
+        "material_type": "Elastic with adhesive",
+        "quantity": "1",
+        "purpose": "To apply pressure to the insertion site post-procedure to prevent bleeding"
+      }
+    ],
+    "previous_bom_index": 37,
+    "updated_at": "2025-03-25T09:30:32.259Z"
+  },
+  {
+    "product_name": "Tibial insert",
+    "manufacturer": "OrthoMed Devices",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Ultra High Molecular Weight Polyethylene (UHMWPE)",
+        "quantity": "100%",
+        "purpose_function": "Provides wear resistance and durability for the articulating surface"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium alloy",
+        "quantity": "1",
+        "purpose_function": "Base plate for structural support and integration with the tibial bone"
+      },
+      {
+        "material_type": "UHMWPE",
+        "quantity": "1",
+        "purpose_function": "Insert that serves as the bearing surface for the femoral component"
+      },
+      {
+        "material_type": "Stainless steel screws",
+        "quantity": "2",
+        "purpose_function": "Secures the tibial insert to the base plate"
+      }
+    ],
+    "previous_bom_index": 38,
+    "updated_at": "2025-03-25T09:30:46.346Z"
+  },
+  {
+    "product_name": "Compressionpressure sockstocking reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Nylon",
+        "material_type": "Synthetic polymer",
+        "quantity": "70%",
+        "purpose": "Provides elasticity and durability"
+      },
+      {
+        "name": "Spandex",
+        "material_type": "Synthetic fiber",
+        "quantity": "20%",
+        "purpose": "Enhances compression and fit"
+      },
+      {
+        "name": "Cotton",
+        "material_type": "Natural fiber",
+        "quantity": "8%",
+        "purpose": "Adds comfort and breathability"
+      },
+      {
+        "name": "Rubber",
+        "material_type": "Elastomer",
+        "quantity": "1%",
+        "purpose": "Ensures non-slip grip at the top"
+      },
+      {
+        "name": "Dye",
+        "material_type": "Chemical",
+        "quantity": "1%",
+        "purpose": "Provides color options"
+      },
+      {
+        "name": "Silicon",
+        "material_type": "Synthetic rubber",
+        "quantity": "As needed",
+        "purpose": "Used in some designs for additional grip"
+      }
+    ],
+    "previous_bom_index": 39,
+    "updated_at": "2025-03-25T09:31:03.908Z"
+  },
+  {
+    "product_name": "Cardiothoracic surgical procedure kit non-medicated single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile drapes",
+        "material_type": "Polypropylene",
+        "quantity": "4",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Surgical gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "2 pairs",
+        "purpose": "To maintain sterility and protect the surgical team"
+      },
+      {
+        "name": "Scalpel blades",
+        "material_type": "Stainless steel",
+        "quantity": "3",
+        "purpose": "For making precise incisions"
+      },
+      {
+        "name": "Forceps",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For grasping and holding tissues"
+      },
+      {
+        "name": "Needle holders",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For holding suturing needles during wound closure"
+      },
+      {
+        "name": "Scissors",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For cutting tissues and sutures"
+      },
+      {
+        "name": "Retractors",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For holding back tissues to expose the surgical site"
+      },
+      {
+        "name": "Sutures",
+        "material_type": "Polypropylene or Silk",
+        "quantity": "10",
+        "purpose": "For wound closure"
+      },
+      {
+        "name": "Syringes",
+        "material_type": "Plastic",
+        "quantity": "5",
+        "purpose": "For irrigation or medication administration"
+      },
+      {
+        "name": "Gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "20",
+        "purpose": "For wound dressing and absorbing fluids"
+      },
+      {
+        "name": "Tissue forceps",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For handling delicate tissues"
+      },
+      {
+        "name": "Hemostats",
+        "material_type": "Stainless steel",
+        "quantity": "4",
+        "purpose": "For clamping blood vessels to control bleeding"
+      },
+      {
+        "name": "Surgical masks",
+        "material_type": "Polypropylene",
+        "quantity": "2",
+        "purpose": "To prevent contamination of the surgical field"
+      },
+      {
+        "name": "Protective eyewear",
+        "material_type": "Polycarbonate",
+        "quantity": "2",
+        "purpose": "To protect the eyes from splashes"
+      },
+      {
+        "name": "Sterile gowns",
+        "material_type": "Polypropylene",
+        "quantity": "2",
+        "purpose": "To maintain sterility of the surgical team"
+      },
+      {
+        "name": "Skin markers",
+        "material_type": "Ink",
+        "quantity": "1",
+        "purpose": "For marking the surgical site"
+      },
+      {
+        "name": "Catheters",
+        "material_type": "Silicone",
+        "quantity": "2",
+        "purpose": "For drainage or administration of fluids"
+      },
+      {
+        "name": "Drainage bags",
+        "material_type": "Plastic",
+        "quantity": "2",
+        "purpose": "For collecting bodily fluids"
+      },
+      {
+        "name": "Specimen containers",
+        "material_type": "Plastic",
+        "quantity": "2",
+        "purpose": "For holding tissue samples"
+      },
+      {
+        "name": "Adhesive tapes",
+        "material_type": "Polyacrylate",
+        "quantity": "2 rolls",
+        "purpose": "For securing dressings or tubes"
+      }
+    ],
+    "previous_bom_index": 40,
+    "updated_at": "2025-03-25T09:31:47.270Z"
+  },
+  {
+    "product_name": "Cardiopulmonary bypass system blood tubing set",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Arterial line",
+        "material_type": "PVC",
+        "quantity": "1",
+        "purpose": "Carries oxygenated blood from the oxygenator to the patient"
+      },
+      {
+        "name": "Venous line",
+        "material_type": "PVC",
+        "quantity": "1",
+        "purpose": "Returns deoxygenated blood from the patient to the oxygenator"
+      },
+      {
+        "name": "Cardiotomy suction line",
+        "material_type": "PVC",
+        "quantity": "1",
+        "purpose": "Removes blood from the surgical field for return to the bypass circuit"
+      },
+      {
+        "name": "Vent line",
+        "material_type": "PVC",
+        "quantity": "1",
+        "purpose": "Allows for the removal of air from the circuit"
+      },
+      {
+        "name": "Pump boot",
+        "material_type": "Silicone",
+        "quantity": "1",
+        "purpose": "Protects the tubing from damage by the roller pump"
+      },
+      {
+        "name": "Connectors",
+        "material_type": "Polycarbonate",
+        "quantity": "varies",
+        "purpose": "Connects various components of the tubing set"
+      },
+      {
+        "name": "Luer locks",
+        "material_type": "Polypropylene",
+        "quantity": "varies",
+        "purpose": "Provides secure connections between components"
+      },
+      {
+        "name": "Roller pump segment",
+        "material_type": "Silicone",
+        "quantity": "1",
+        "purpose": "Segment of tubing designed to be compressed by the roller pump"
+      },
+      {
+        "name": "Oxygenator connector",
+        "material_type": "Polycarbonate",
+        "quantity": "1",
+        "purpose": "Connects the tubing set to the oxygenator"
+      },
+      {
+        "name": "Reservoir bag",
+        "material_type": "PVC",
+        "quantity": "1",
+        "purpose": "Stores blood and allows for volume adjustment in the circuit"
+      },
+      {
+        "name": "Heat exchanger connector",
+        "material_type": "Polycarbonate",
+        "quantity": "1",
+        "purpose": "Connects the tubing set to the heat exchanger"
+      },
+      {
+        "name": "Filter",
+        "material_type": "Polyethersulfone",
+        "quantity": "1",
+        "purpose": "Removes microemboli and other particulates from the blood"
+      },
+      {
+        "name": "Clamps",
+        "material_type": "Plastic",
+        "quantity": "varies",
+        "purpose": "Controls the flow of blood through the tubing"
+      },
+      {
+        "name": "Y-connectors",
+        "material_type": "Polycarbonate",
+        "quantity": "varies",
+        "purpose": "Allows for the splitting of flow into two directions"
+      },
+      {
+        "name": "Stopcocks",
+        "material_type": "Polycarbonate",
+        "quantity": "varies",
+        "purpose": "Controls the direction of flow within the circuit"
+      },
+      {
+        "name": "Pressure monitoring line",
+        "material_type": "PVC",
+        "quantity": "1",
+        "purpose": "Allows for the monitoring of pressure within the circuit"
+      }
+    ],
+    "previous_bom_index": 41,
+    "updated_at": "2025-03-25T09:32:25.072Z"
+  },
+  {
+    "product_name": "Radiation shielding apron",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Lead",
+        "material_type": "Metal",
+        "quantity": "0.5mm thickness equivalent",
+        "purpose": "Primary shielding material to block radiation"
+      },
+      {
+        "name": "Lead-free composite materials (e.g., Tungsten, Antimony, Bismuth)",
+        "material_type": "Composite",
+        "quantity": "Varies by composite type",
+        "purpose": "Alternative shielding materials for lighter aprons"
+      },
+      {
+        "name": "Nylon or Polyester",
+        "material_type": "Fabric",
+        "quantity": "100%",
+        "purpose": "Outer fabric for durability and comfort"
+      },
+      {
+        "name": "PVC or Vinyl",
+        "material_type": "Plastic",
+        "quantity": "100%",
+        "purpose": "Inner lining to contain shielding materials"
+      },
+      {
+        "name": "Velcro or Buckles",
+        "material_type": "Fastener",
+        "quantity": "As required",
+        "purpose": "Fastening mechanisms for secure fit"
+      },
+      {
+        "name": "Reinforced stitching",
+        "material_type": "Thread",
+        "quantity": "High tensile strength",
+        "purpose": "Ensures durability and longevity of the apron"
+      },
+      {
+        "name": "Foam padding",
+        "material_type": "Foam",
+        "quantity": "5mm thickness",
+        "purpose": "Enhances comfort for the wearer"
+      },
+      {
+        "name": "Waterproof coating",
+        "material_type": "Chemical",
+        "quantity": "Thin layer",
+        "purpose": "Protects the apron from liquid damage"
+      }
+    ],
+    "previous_bom_index": 42,
+    "updated_at": "2025-03-25T09:32:47.269Z"
+  },
+  {
+    "product_name": "Knee tibia prosthesis trial reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Tibial Baseplate",
+        "material": "Medical Grade Stainless Steel",
+        "quantity": 1,
+        "purpose": "Provides structural support and attachment to the tibia"
+      },
+      {
+        "name": "Tibial Insert",
+        "material": "Ultra-High Molecular Weight Polyethylene (UHMWPE)",
+        "quantity": 1,
+        "purpose": "Acts as a bearing surface to facilitate smooth movement"
+      },
+      {
+        "name": "Trial Stem",
+        "material": "Medical Grade Stainless Steel",
+        "quantity": 1,
+        "purpose": "Ensures stability and alignment within the tibial canal"
+      },
+      {
+        "name": "Trial Augments",
+        "material": "Medical Grade Stainless Steel",
+        "quantity": "As required",
+        "purpose": "Used to fill bone defects and ensure proper fit"
+      },
+      {
+        "name": "Trial Keel",
+        "material": "Medical Grade Stainless Steel",
+        "quantity": 1,
+        "purpose": "Enhances stability and fixation in the tibial plateau"
+      },
+      {
+        "name": "Trial Pegs",
+        "material": "Medical Grade Stainless Steel",
+        "quantity": "As required",
+        "purpose": "Provides additional fixation points as needed"
+      }
+    ],
+    "previous_bom_index": 43,
+    "updated_at": "2025-03-25T09:33:07.144Z"
+  },
+  {
+    "product_name": "General-purpose surgical scissors reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Blades",
+        "material": "Stainless Steel",
+        "quantity": 2,
+        "purpose": "Cutting tissue or materials during surgical procedures"
+      },
+      {
+        "name": "Handles",
+        "material": "Stainless Steel",
+        "quantity": 2,
+        "purpose": "Provide grip and control for the user"
+      },
+      {
+        "name": "Screws",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Secure the blades to the handles"
+      },
+      {
+        "name": "Spring",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Ensure the scissors return to an open position after each cut"
+      },
+      {
+        "name": "Protective Coating",
+        "material": "Teflon",
+        "quantity": "Applied as a thin layer",
+        "purpose": "Reduce friction between the blades and prevent sticking"
+      }
+    ],
+    "previous_bom_index": 44,
+    "updated_at": "2025-03-25T09:33:24.501Z"
+  },
+  {
+    "product_name": "Device sterilizationdisinfection container reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Container Body",
+        "material": "Stainless Steel (Grade 316L)",
+        "quantity": 1,
+        "purpose": "Main structure of the container, resistant to high temperatures and corrosion for sterilization processes."
+      },
+      {
+        "name": "Lid",
+        "material": "Stainless Steel (Grade 316L)",
+        "quantity": 1,
+        "purpose": "Covers the container body, ensuring a secure seal during sterilization and storage."
+      },
+      {
+        "name": "Sealing Gasket",
+        "material": "Medical Grade Silicone",
+        "quantity": 1,
+        "purpose": "Ensures an airtight seal between the container body and lid to maintain sterility."
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel (Grade 304) and High-Temperature Resistant Plastic",
+        "quantity": 1,
+        "purpose": "Secures the lid to the container body during sterilization and transport."
+      },
+      {
+        "name": "Handle",
+        "material": "Stainless Steel (Grade 316L)",
+        "quantity": 1,
+        "purpose": "Facilitates easy handling and transport of the container."
+      },
+      {
+        "name": "Sterilization Indicator",
+        "material": "Chemical Indicator Strip (Class 5)",
+        "quantity": 1,
+        "purpose": "Provides visual confirmation that the container has been exposed to sterilization conditions."
+      },
+      {
+        "name": "Filter",
+        "material": "High-Efficiency Particulate Air (HEPA) Filter Material",
+        "quantity": 1,
+        "purpose": "Allows for the exchange of sterilizing agents while preventing the entry of contaminants."
+      },
+      {
+        "name": "Labeling Area",
+        "material": "Anodized Aluminum",
+        "quantity": 1,
+        "purpose": "Provides a durable surface for labeling contents, sterilization date, and expiration."
+      }
+    ],
+    "previous_bom_index": 45,
+    "updated_at": "2025-03-25T09:33:50.097Z"
+  },
+  {
+    "product_name": "Orthopaedic bur single-use",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "100%",
+        "purpose_function": "Provides the cutting edge for bone removal"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose_function": "Handle for grip and control during surgery"
+      },
+      {
+        "material_type": "Sterile Packaging",
+        "quantity": "1",
+        "purpose_function": "Ensures the product remains sterile until use"
+      }
+    ],
+    "previous_bom_index": 46,
+    "updated_at": "2025-03-25T09:34:03.106Z"
+  },
+  {
+    "product_name": "Hand-held surgical retractor reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Handle",
+        "material": "Stainless Steel 316L",
+        "quantity": 1,
+        "purpose": "Provides grip and control during surgical procedures"
+      },
+      {
+        "name": "Blade",
+        "material": "Stainless Steel 316L",
+        "quantity": 1,
+        "purpose": "Retracts tissue to provide access to the surgical site"
+      },
+      {
+        "name": "Screw",
+        "material": "Stainless Steel 316L",
+        "quantity": 2,
+        "purpose": "Secures the blade to the handle"
+      },
+      {
+        "name": "Spring",
+        "material": "Stainless Steel 316L",
+        "quantity": 1,
+        "purpose": "Provides tension to maintain blade position"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel 316L",
+        "quantity": 1,
+        "purpose": "Allows for adjustment and fixation of the blade angle"
+      }
+    ],
+    "previous_bom_index": 47,
+    "updated_at": "2025-03-25T09:34:19.712Z"
+  },
+  {
+    "product_name": "Rigid endoscopic tissue manipulation forceps reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Forceps Head",
+        "material": "Stainless Steel 316L",
+        "quantity": "1",
+        "description": "The working end of the forceps, designed for grasping tissue, made from medical-grade stainless steel for durability and corrosion resistance."
+      },
+      {
+        "name": "Shaft",
+        "material": "Stainless Steel 316L",
+        "quantity": "1",
+        "description": "The long, slender part that connects the handle to the forceps head, ensuring precise control and flexibility during procedures."
+      },
+      {
+        "name": "Handle",
+        "material": "Stainless Steel 316L with Ergonomic Coating",
+        "quantity": "1",
+        "description": "The part held by the user, designed with an ergonomic coating for comfortable grip and control during prolonged use."
+      },
+      {
+        "name": "Ratchet Mechanism",
+        "material": "Stainless Steel 316L",
+        "quantity": "1",
+        "description": "Allows the forceps to lock in position for sustained grasping, enhancing surgical precision and reducing hand fatigue."
+      },
+      {
+        "name": "Sterilization Capability Indicator",
+        "material": "Heat-resistant Polymer",
+        "quantity": "1",
+        "description": "Indicates whether the forceps have been properly sterilized, ensuring patient safety and compliance with medical standards."
+      }
+    ],
+    "previous_bom_index": 48,
+    "updated_at": "2025-03-25T09:34:41.988Z"
+  },
+  {
+    "product_name": "Surgical soft-tissue manipulation forceps scissors-like reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Blades",
+        "material": "Stainless Steel",
+        "quantity": 2,
+        "purpose": "Cutting and dissecting soft tissues during surgical procedures"
+      },
+      {
+        "name": "Handles",
+        "material": "Stainless Steel",
+        "quantity": 2,
+        "purpose": "Provide grip and control for the surgeon during use"
+      },
+      {
+        "name": "Screws",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Secure the blades and handles together"
+      },
+      {
+        "name": "Spring",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Ensure the forceps return to an open position after each use"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Allow the forceps to be locked in a closed position when not in use"
+      }
+    ],
+    "previous_bom_index": 49,
+    "updated_at": "2025-03-25T09:35:00.395Z"
+  },
+  {
+    "product_name": "Peripheral angioplasty balloon catheter basic",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Balloon",
+        "material": "Polyurethane or Nylon",
+        "quantity": "1",
+        "purpose": "Expands to open the artery"
+      },
+      {
+        "name": "Catheter Shaft",
+        "material": "Polyethylene or Polyimide",
+        "quantity": "1",
+        "purpose": "Delivers the balloon to the target site"
+      },
+      {
+        "name": "Guidewire",
+        "material": "Stainless Steel or Nitinol",
+        "quantity": "1",
+        "purpose": "Guides the catheter through the vascular system"
+      },
+      {
+        "name": "Hub",
+        "material": "Plastic",
+        "quantity": "1",
+        "purpose": "Connects the catheter to the inflation device"
+      },
+      {
+        "name": "Inflation Lumen",
+        "material": "Plastic",
+        "quantity": "1",
+        "purpose": "Allows for balloon inflation and deflation"
+      },
+      {
+        "name": "Marker Bands",
+        "material": "Platinum or Gold",
+        "quantity": "2",
+        "purpose": "Provides visibility under imaging"
+      }
+    ],
+    "previous_bom_index": 50,
+    "updated_at": "2025-03-25T09:35:17.917Z"
+  },
+  {
+    "product_name": "Dental implant system",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Implant Fixture",
+        "material": "Titanium",
+        "quantity": "1 per implant",
+        "description": "The part that is inserted into the jawbone to act as a root for the artificial tooth."
+      },
+      {
+        "name": "Abutment",
+        "material": "Titanium or Zirconia",
+        "quantity": "1 per implant",
+        "description": "Connects the implant fixture to the prosthetic tooth or crown."
+      },
+      {
+        "name": "Prosthetic Tooth/Crown",
+        "material": "Porcelain or Zirconia",
+        "quantity": "1 per implant",
+        "description": "The visible part of the implant that resembles and functions like a natural tooth."
+      },
+      {
+        "name": "Screw",
+        "material": "Titanium",
+        "quantity": "1 per abutment",
+        "description": "Used to secure the abutment to the implant fixture."
+      },
+      {
+        "name": "Healing Cap",
+        "material": "Titanium or Plastic",
+        "quantity": "1 per implant",
+        "description": "Placed over the implant fixture during the healing process to protect it."
+      },
+      {
+        "name": "Impression Coping",
+        "material": "Titanium or Plastic",
+        "quantity": "1 per implant",
+        "description": "Used to take an impression of the implant position for the fabrication of the prosthetic tooth."
+      },
+      {
+        "name": "Analog",
+        "material": "Titanium",
+        "quantity": "1 per implant",
+        "description": "Used in the dental laboratory to replicate the position of the implant for prosthetic fabrication."
+      },
+      {
+        "name": "Surgical Guide",
+        "material": "Plastic or Metal",
+        "quantity": "1 per procedure",
+        "description": "Used during the implant placement surgery to ensure precise positioning of the implant fixture."
+      }
+    ],
+    "previous_bom_index": 51,
+    "updated_at": "2025-03-25T09:35:41.764Z"
+  },
+  {
+    "product_name": "Air-conduction hearing aid receiver-in-canal",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Microphone",
+        "material_type": "Electret",
+        "quantity": "1",
+        "purpose": "Captures sound from the environment."
+      },
+      {
+        "name": "Amplifier",
+        "material_type": "Silicon",
+        "quantity": "1",
+        "purpose": "Increases the power of the sound signals."
+      },
+      {
+        "name": "Receiver (Speaker)",
+        "material_type": "Neodymium",
+        "quantity": "1",
+        "purpose": "Converts the amplified electrical signals back into sound and delivers it into the ear canal."
+      },
+      {
+        "name": "Battery",
+        "material_type": "Zinc-air",
+        "quantity": "1",
+        "purpose": "Provides the necessary power for the hearing aid to function."
+      },
+      {
+        "name": "Ear Mold",
+        "material_type": "Silicone",
+        "quantity": "1",
+        "purpose": "Custom-fit component that directs sound into the ear and helps hold the hearing aid in place."
+      },
+      {
+        "name": "Volume Control",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "Allows the user to adjust the loudness of the sound."
+      },
+      {
+        "name": "Program Button",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "Enables the user to switch between different hearing programs."
+      },
+      {
+        "name": "Housing",
+        "material_type": "Acrylic",
+        "quantity": "1",
+        "purpose": "Protects the internal components of the hearing aid."
+      },
+      {
+        "name": "Dome",
+        "material_type": "Silicone",
+        "quantity": "1",
+        "purpose": "Helps to secure the hearing aid in the ear and can affect sound quality."
+      },
+      {
+        "name": "Sound Tube",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "Connects the hearing aid to the ear mold or dome, directing sound into the ear canal."
+      }
+    ],
+    "previous_bom_index": 52,
+    "updated_at": "2025-03-25T09:36:08.029Z"
+  },
+  {
+    "product_name": "Joint prosthesis implantation kit reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Surgical Tray",
+        "description": "Sterilizable tray to hold all components during surgery",
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "To organize and sterilize all surgical components"
+      },
+      {
+        "name": "Prosthesis Holder",
+        "description": "Tool to securely hold the prosthesis during implantation",
+        "material_type": "Titanium",
+        "quantity": "1",
+        "purpose": "To ensure secure handling of the prosthesis during surgery"
+      },
+      {
+        "name": "Bone Cement Applicator",
+        "description": "Device for applying bone cement during the prosthesis fixation",
+        "material_type": "Plastic and Stainless Steel",
+        "quantity": "1",
+        "purpose": "For precise application of bone cement"
+      },
+      {
+        "name": "Reamers and Drills",
+        "description": "Set of reamers and drills for bone preparation",
+        "material_type": "Stainless Steel",
+        "quantity": "Set of 5",
+        "purpose": "To prepare the bone for prosthesis implantation"
+      },
+      {
+        "name": "Trial Prostheses",
+        "description": "Set of trial prostheses for size and fit assessment",
+        "material_type": "Medical Grade Plastic",
+        "quantity": "Set of 3",
+        "purpose": "To assess the correct size and fit before final implantation"
+      },
+      {
+        "name": "Impactors",
+        "description": "Tools for seating the prosthesis into the bone",
+        "material_type": "Stainless Steel",
+        "quantity": "2",
+        "purpose": "To ensure the prosthesis is properly seated in the bone"
+      },
+      {
+        "name": "Extractors",
+        "description": "Tools for prosthesis removal if necessary",
+        "material_type": "Stainless Steel",
+        "quantity": "2",
+        "purpose": "For safe removal of the prosthesis if required"
+      },
+      {
+        "name": "Measuring Devices",
+        "description": "Instruments for precise measurement of bone and prosthesis dimensions",
+        "material_type": "Stainless Steel and Plastic",
+        "quantity": "Set of 4",
+        "purpose": "To ensure accurate measurements for proper prosthesis fit"
+      },
+      {
+        "name": "Screws and Fixation Devices",
+        "description": "Various screws and devices for prosthesis fixation",
+        "material_type": "Titanium",
+        "quantity": "Set of 10",
+        "purpose": "To securely fix the prosthesis to the bone"
+      },
+      {
+        "name": "Cleaning and Sterilization Instructions",
+        "description": "Detailed instructions for cleaning and sterilizing the kit for reuse",
+        "material_type": "Paper",
+        "quantity": "1",
+        "purpose": "To guide the proper cleaning and sterilization process for reuse"
+      }
+    ],
+    "previous_bom_index": 53,
+    "updated_at": "2025-03-25T09:36:41.603Z"
+  },
+  {
+    "product_name": "Obstetricalgynaecological surgical procedure kit non-medicated single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile drapes",
+        "material_type": "Non-woven fabric",
+        "quantity": "1 set",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Sterile gloves",
+        "material_type": "Latex or nitrile",
+        "quantity": "1 pair",
+        "purpose": "To maintain sterility and protect both patient and healthcare provider"
+      },
+      {
+        "name": "Scalpel with blade",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For making incisions"
+      },
+      {
+        "name": "Surgical scissors",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For cutting tissue or sutures"
+      },
+      {
+        "name": "Forceps",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For grasping or holding tissue"
+      },
+      {
+        "name": "Needle holder",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "To hold the needle during suturing"
+      },
+      {
+        "name": "Sutures",
+        "material_type": "Absorbable or non-absorbable thread",
+        "quantity": "As needed",
+        "purpose": "For closing incisions or wounds"
+      },
+      {
+        "name": "Sponge sticks",
+        "material_type": "Wood or plastic with cotton tip",
+        "quantity": "2",
+        "purpose": "For applying solutions or cleaning the surgical site"
+      },
+      {
+        "name": "Gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "10",
+        "purpose": "For cleaning or absorbing fluids during the procedure"
+      },
+      {
+        "name": "Speculum",
+        "material_type": "Stainless steel or plastic",
+        "quantity": "1",
+        "purpose": "To visualize the vaginal canal and cervix"
+      },
+      {
+        "name": "Uterine sound",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "To measure the depth of the uterine cavity"
+      },
+      {
+        "name": "Cervical dilators",
+        "material_type": "Stainless steel",
+        "quantity": "Set",
+        "purpose": "To gradually dilate the cervix"
+      },
+      {
+        "name": "Curette",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For scraping or removing tissue from the uterine lining"
+      },
+      {
+        "name": "Suction cannula",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "For removing tissue or fluids by suction"
+      },
+      {
+        "name": "Electrosurgical pencil",
+        "material_type": "Metal and plastic",
+        "quantity": "1",
+        "purpose": "For cutting or coagulating tissue using electrical current"
+      },
+      {
+        "name": "Sterile container for specimen",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "To collect and transport tissue samples for pathology"
+      }
+    ],
+    "previous_bom_index": 54,
+    "updated_at": "2025-03-25T09:37:19.957Z"
+  },
+  {
+    "product_name": "Dental implant suprastructure temporary preformed single-use",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Polymethyl methacrylate (PMMA)",
+        "quantity": "100%",
+        "purpose": "Base material for the temporary suprastructure, providing strength and biocompatibility"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium",
+        "quantity": "1",
+        "purpose": "Implant abutment interface for secure attachment to the dental implant"
+      },
+      {
+        "material_type": "Acrylic Resin",
+        "quantity": "1",
+        "purpose": "For the fabrication of the temporary crown or bridge, ensuring aesthetic and functional temporary restoration"
+      },
+      {
+        "material_type": "Stainless Steel Screw",
+        "quantity": "1",
+        "purpose": "To secure the temporary suprastructure to the implant abutment"
+      }
+    ],
+    "previous_bom_index": 55,
+    "updated_at": "2025-03-25T09:37:34.901Z"
+  },
+  {
+    "product_name": "Suturing needle holder reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Handle",
+        "material": "Stainless Steel",
+        "quantity": 2,
+        "purpose": "Provides grip and control during suturing"
+      },
+      {
+        "name": "Jaw",
+        "material": "Tungsten Carbide",
+        "quantity": 1,
+        "purpose": "Holds the needle securely for precise suturing"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Locks the jaw in place to maintain needle position"
+      },
+      {
+        "name": "Spring",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Ensures smooth operation of the locking mechanism"
+      },
+      {
+        "name": "Screws",
+        "material": "Stainless Steel",
+        "quantity": 2,
+        "purpose": "Secures components together for durability and reliability"
+      },
+      {
+        "name": "Finger Ring",
+        "material": "Stainless Steel",
+        "quantity": 2,
+        "purpose": "Allows for easy handling and operation with fingers"
+      }
+    ],
+    "previous_bom_index": 56,
+    "updated_at": "2025-03-25T09:37:53.075Z"
+  },
+  {
+    "product_name": "Bone curette reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Handle",
+        "material": "Stainless Steel 316L",
+        "quantity": "1",
+        "description": "Ergonomic handle designed for precise control and comfort during prolonged use"
+      },
+      {
+        "name": "Shaft",
+        "material": "Stainless Steel 316L",
+        "quantity": "1",
+        "description": "Long, slender shaft engineered for optimal reach and flexibility in bone cavities"
+      },
+      {
+        "name": "Curette Tip",
+        "material": "Stainless Steel 316L",
+        "quantity": "1",
+        "description": "Sharp, spoon-shaped tip precision-crafted for efficient bone scraping and removal"
+      },
+      {
+        "name": "Sterilization Cap",
+        "material": "Silicone",
+        "quantity": "1",
+        "description": "Protective cap to maintain sterility of the curette tip when not in use"
+      }
+    ],
+    "previous_bom_index": 57,
+    "updated_at": "2025-03-25T09:38:08.772Z"
+  },
+  {
+    "product_name": "Surgical retractorretraction system blade reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Blade",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "To retract tissues or organs during surgery"
+      },
+      {
+        "name": "Handle",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "To provide grip and control during the surgical procedure"
+      },
+      {
+        "name": "Screw",
+        "material": "Stainless Steel",
+        "quantity": 2,
+        "purpose": "To secure the blade to the handle"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "To lock the blade in place once the desired position is achieved"
+      },
+      {
+        "name": "Coating",
+        "material": "Titanium Nitride",
+        "quantity": 1,
+        "purpose": "To enhance durability and reduce friction during use"
+      }
+    ],
+    "previous_bom_index": 58,
+    "updated_at": "2025-03-25T09:38:24.982Z"
+  },
+  {
+    "product_name": "Surgical screwdriver reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Handle",
+        "material": "Stainless steel",
+        "quantity": "1",
+        "description": "Ergonomic handle for precise control, designed to reduce hand fatigue during prolonged use"
+      },
+      {
+        "name": "Shaft",
+        "material": "Stainless steel",
+        "quantity": "1",
+        "description": "Long, durable shaft for reaching screws in deep tissues, with a non-reflective finish to minimize glare"
+      },
+      {
+        "name": "Tip",
+        "material": "Tungsten carbide",
+        "quantity": "Set of 5",
+        "description": "Interchangeable tips for different screw types, including Phillips, flathead, and hex, for versatility in surgical applications"
+      },
+      {
+        "name": "Locking mechanism",
+        "material": "Stainless steel",
+        "quantity": "1",
+        "description": "Secures the tip in place during use, with a quick-release feature for easy tip changes"
+      },
+      {
+        "name": "Sterilization case",
+        "material": "Medical-grade plastic",
+        "quantity": "1",
+        "description": "Case for sterilizing and storing the screwdriver, designed to withstand autoclave temperatures up to 135°C"
+      },
+      {
+        "name": "Grip",
+        "material": "Medical-grade silicone",
+        "quantity": "1",
+        "description": "Non-slip grip surface to enhance control and reduce the risk of slippage during procedures"
+      }
+    ],
+    "previous_bom_index": 59,
+    "updated_at": "2025-03-25T09:38:44.910Z"
+  },
+  {
+    "product_name": "Open-surgery electrosurgical handpieceelectrode bipolar reusable",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "Example Country",
+    "ingredients": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "80%",
+        "purpose_function": "Provides structural integrity and durability to the handpiece"
+      },
+      {
+        "material_type": "Silicone",
+        "quantity": "15%",
+        "purpose_function": "Ensures comfortable grip and insulation"
+      },
+      {
+        "material_type": "Copper",
+        "quantity": "5%",
+        "purpose_function": "Enhances electrical conductivity for efficient energy transfer"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Electrode Tips",
+        "quantity": "2",
+        "purpose_function": "Direct contact points for electrosurgical energy delivery"
+      },
+      {
+        "material_type": "Insulation Sleeve",
+        "quantity": "1",
+        "purpose_function": "Prevents unintended energy discharge to non-target tissues"
+      },
+      {
+        "material_type": "Connection Cable",
+        "quantity": "1",
+        "purpose_function": "Links the handpiece to the electrosurgical generator"
+      },
+      {
+        "material_type": "Activation Button",
+        "quantity": "1",
+        "purpose_function": "Controls the delivery of electrosurgical energy"
+      }
+    ],
+    "previous_bom_index": 60,
+    "updated_at": "2025-03-25T09:39:03.086Z"
+  },
+  {
+    "product_name": "Tracheostomy tube reinforced non-customized reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Tube",
+        "material": "Medical grade silicone",
+        "quantity": "1",
+        "description": "Main body of the tracheostomy tube, reinforced with a spiral of nylon or stainless steel to prevent collapse."
+      },
+      {
+        "name": "Flange",
+        "material": "Medical grade silicone",
+        "quantity": "1",
+        "description": "Outer part that sits against the neck to secure the tube in place, designed for patient comfort and secure fit."
+      },
+      {
+        "name": "Obturator",
+        "material": "Medical grade plastic",
+        "quantity": "1",
+        "description": "Used during insertion to guide the tube smoothly into the trachea and then removed post-insertion."
+      },
+      {
+        "name": "Inner cannula",
+        "material": "Medical grade silicone",
+        "quantity": "1",
+        "description": "Removable inner tube that can be easily cleaned or replaced to maintain hygiene and functionality."
+      },
+      {
+        "name": "Pilot balloon",
+        "material": "Silicone",
+        "quantity": "1",
+        "description": "Indicates cuff inflation status for cuffed models, ensuring proper sealing of the trachea."
+      },
+      {
+        "name": "Cuff",
+        "material": "Silicone",
+        "quantity": "1",
+        "description": "Inflatable balloon that seals the trachea to prevent air leakage and aspiration, optional based on patient needs."
+      },
+      {
+        "name": "15mm connector",
+        "material": "Medical grade plastic",
+        "quantity": "1",
+        "description": "Standard connector for attachment to ventilation equipment, ensuring compatibility across devices."
+      },
+      {
+        "name": "Reinforcement spiral",
+        "material": "Nylon or stainless steel",
+        "quantity": "1",
+        "description": "Embedded within the tube to provide structural support and prevent kinking or collapse."
+      }
+    ],
+    "previous_bom_index": 61,
+    "updated_at": "2025-03-25T09:39:29.508Z"
+  },
+  {
+    "product_name": "Vascular guide-catheter single-use",
+    "manufacturer": "MedTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Polyurethane",
+        "quantity": "70%",
+        "purpose_function": "Provides flexibility and durability to the catheter body"
+      },
+      {
+        "material_type": "Tungsten",
+        "quantity": "20%",
+        "purpose_function": "Enhances radiopacity for better visibility under X-ray"
+      },
+      {
+        "material_type": "Silicone",
+        "quantity": "10%",
+        "purpose_function": "Coating to reduce friction during insertion"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose_function": "Core wire for structural support"
+      },
+      {
+        "material_type": "Polyethylene",
+        "quantity": "1",
+        "purpose_function": "Tip for smooth navigation through vessels"
+      },
+      {
+        "material_type": "Nylon",
+        "quantity": "1",
+        "purpose_function": "Hub connector for secure attachment to medical devices"
+      }
+    ],
+    "previous_bom_index": 62,
+    "updated_at": "2025-03-25T09:39:46.556Z"
+  },
+  {
+    "product_name": "Surgical soft-tissue manipulation forceps tweezers-like reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Stainless Steel Body",
+        "material": "Medical Grade Stainless Steel (AISI 316L)",
+        "quantity": 1,
+        "purpose": "Provides the main structure and durability to the forceps, ensuring resistance to corrosion and sterilization processes."
+      },
+      {
+        "name": "Tweezers Tips",
+        "material": "Medical Grade Stainless Steel (AISI 316L)",
+        "quantity": 1,
+        "purpose": "Precision tips designed for delicate soft-tissue manipulation, ensuring minimal tissue trauma."
+      },
+      {
+        "name": "Rubber Grips",
+        "material": "Medical Grade Silicone",
+        "quantity": 2,
+        "purpose": "Enhances grip and comfort during use, reducing hand fatigue and improving control."
+      },
+      {
+        "name": "Screws",
+        "material": "Medical Grade Stainless Steel (AISI 316L)",
+        "quantity": 2,
+        "purpose": "Secures the rubber grips to the stainless steel body, ensuring a stable and durable assembly."
+      },
+      {
+        "name": "Sterilization Indicator",
+        "material": "Chemical Indicator Ink",
+        "quantity": 1,
+        "purpose": "Provides visual confirmation that the forceps have undergone proper sterilization processes."
+      }
+    ],
+    "previous_bom_index": 63,
+    "updated_at": "2025-03-25T09:40:05.192Z"
+  },
+  {
+    "product_name": "Spinal rongeur",
+    "manufacturer": "Precision Surgical Instruments",
+    "product_origin": "Germany",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Handle",
+        "material": "Stainless Steel 316L",
+        "quantity": 2,
+        "purpose": "Provides grip and leverage for the user to operate the rongeur"
+      },
+      {
+        "name": "Blade",
+        "material": "Tungsten Carbide",
+        "quantity": 1,
+        "purpose": "Cutting component designed for precision and durability in bone removal"
+      },
+      {
+        "name": "Screw",
+        "material": "Stainless Steel 316L",
+        "quantity": 2,
+        "purpose": "Secures the blade to the handle ensuring stability during use"
+      },
+      {
+        "name": "Spring",
+        "material": "Stainless Steel 316L",
+        "quantity": 1,
+        "purpose": "Provides tension to the handles for smooth operation and return to open position"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel 316L",
+        "quantity": 1,
+        "purpose": "Allows the rongeur to be locked in a closed position for safety when not in use"
+      }
+    ],
+    "previous_bom_index": 64,
+    "updated_at": "2025-03-25T09:40:23.776Z"
+  },
+  {
+    "product_name": "Carbide dental bur reusable",
+    "manufacturer": "DentalTools Inc.",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Tungsten Carbide",
+        "quantity": "85%",
+        "purpose": "Provides the cutting edge for the bur, ensuring durability and sharpness."
+      },
+      {
+        "material_type": "Cobalt",
+        "quantity": "15%",
+        "purpose": "Binds the tungsten carbide particles together, enhancing the bur's strength."
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "Forms the shank of the bur, allowing it to be attached to dental handpieces."
+      },
+      {
+        "material_type": "Nickel Plating",
+        "quantity": "Thin layer",
+        "purpose": "Provides corrosion resistance and improves the appearance of the bur."
+      }
+    ],
+    "previous_bom_index": 65,
+    "updated_at": "2025-03-25T09:40:38.187Z"
+  },
+  {
+    "product_name": "ENT surgical procedure kit non-medicated single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "1 pair",
+        "purpose": "To ensure sterile handling during the procedure"
+      },
+      {
+        "name": "Surgical mask",
+        "material_type": "Polypropylene",
+        "quantity": "1",
+        "purpose": "To prevent contamination from the wearer's respiratory droplets"
+      },
+      {
+        "name": "Head cap",
+        "material_type": "Polypropylene",
+        "quantity": "1",
+        "purpose": "To cover the hair and prevent contamination"
+      },
+      {
+        "name": "Shoe covers",
+        "material_type": "Polyethylene",
+        "quantity": "1 pair",
+        "purpose": "To maintain a sterile environment by covering footwear"
+      },
+      {
+        "name": "Sterile drape",
+        "material_type": "Polyester or Polyethylene",
+        "quantity": "1",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Cotton balls",
+        "material_type": "Cotton",
+        "quantity": "5",
+        "purpose": "For cleaning and applying solutions"
+      },
+      {
+        "name": "Gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "5",
+        "purpose": "For wound dressing and absorbing fluids"
+      },
+      {
+        "name": "Sterile saline solution",
+        "material_type": "Sodium Chloride in Water",
+        "quantity": "50 ml",
+        "purpose": "For irrigation and cleaning wounds"
+      },
+      {
+        "name": "Syringe",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "For administering solutions or aspirating fluids"
+      },
+      {
+        "name": "Needle",
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "For injections or aspirations"
+      },
+      {
+        "name": "Scalpel",
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "For making incisions"
+      },
+      {
+        "name": "Forceps",
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "For grasping or holding tissues"
+      },
+      {
+        "name": "Scissors",
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "For cutting tissues or materials"
+      },
+      {
+        "name": "Nasal speculum",
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "For examining the nasal passages"
+      },
+      {
+        "name": "Ear speculum",
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "For examining the ear canal"
+      },
+      {
+        "name": "Tongue depressor",
+        "material_type": "Wood or Plastic",
+        "quantity": "1",
+        "purpose": "For depressing the tongue during examination"
+      },
+      {
+        "name": "Suction tube",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "For removing fluids from the surgical site"
+      },
+      {
+        "name": "Biopsy punch",
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "For obtaining tissue samples"
+      },
+      {
+        "name": "Suture material",
+        "material_type": "Silk or Synthetic",
+        "quantity": "1 pack",
+        "purpose": "For closing wounds"
+      },
+      {
+        "name": "Adhesive tape",
+        "material_type": "Plastic or Cloth",
+        "quantity": "1 roll",
+        "purpose": "For securing dressings or tubes"
+      },
+      {
+        "name": "Disposable container for specimens",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "For collecting and transporting specimens"
+      }
+    ],
+    "previous_bom_index": 66,
+    "updated_at": "2025-03-25T09:41:23.163Z"
+  },
+  {
+    "product_name": "Orthodontic archwire",
+    "manufacturer": "DentalTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Nickel-Titanium alloy",
+        "quantity": "100%",
+        "purpose": "Provides flexibility and shape memory for effective tooth alignment"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "Optional",
+        "purpose": "Used for added strength in certain archwire designs"
+      },
+      {
+        "material_type": "Copper-Nickel-Titanium alloy",
+        "quantity": "Optional",
+        "purpose": "Offers temperature-dependent properties for dynamic tooth movement"
+      },
+      {
+        "material_type": "Beta-Titanium alloy",
+        "quantity": "Optional",
+        "purpose": "Provides a balance between flexibility and strength for intermediate tooth movement stages"
+      }
+    ],
+    "previous_bom_index": 67,
+    "updated_at": "2025-03-25T09:41:37.563Z"
+  },
+  {
+    "product_name": "Surgical implant template reusable",
+    "manufacturer": "MedTech Innovations Inc.",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Medical Grade Stainless Steel",
+        "quantity": "70%",
+        "purpose": "Provides structural integrity and corrosion resistance"
+      },
+      {
+        "material_type": "Medical Grade Silicone",
+        "quantity": "20%",
+        "purpose": "Ensures flexibility and patient comfort"
+      },
+      {
+        "material_type": "Titanium Alloy",
+        "quantity": "10%",
+        "purpose": "Enhances durability and biocompatibility"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Adjustable Clamps",
+        "quantity": "2",
+        "purpose": "Secures the template in place during surgery"
+      },
+      {
+        "material_type": "Calibration Markers",
+        "quantity": "4",
+        "purpose": "Ensures precise placement of the implant"
+      },
+      {
+        "material_type": "Sterilization Cap",
+        "quantity": "1",
+        "purpose": "Maintains sterility before use"
+      }
+    ],
+    "previous_bom_index": 68,
+    "updated_at": "2025-03-25T09:41:54.025Z"
+  },
+  {
+    "product_name": "Polyester suture bioabsorbable multifilament non-antimicrobial",
+    "manufacturer": "Example Manufacturer Inc.",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Polyglycolic Acid (PGA)",
+        "quantity": "70%",
+        "purpose": "Primary bioabsorbable material providing tensile strength"
+      },
+      {
+        "material_type": "Polylactic Acid (PLA)",
+        "quantity": "30%",
+        "purpose": "Enhances flexibility and degradation rate"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Sterile Packaging",
+        "quantity": "1 unit",
+        "purpose": "Ensures product sterility until use"
+      },
+      {
+        "material_type": "Suture Needle",
+        "quantity": "1 unit",
+        "purpose": "Facilitates suture application"
+      }
+    ],
+    "previous_bom_index": 69,
+    "updated_at": "2025-03-25T09:42:07.837Z"
+  },
+  {
+    "product_name": "Vertebral body prosthesis",
+    "manufacturer": "MedTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Titanium alloy",
+        "quantity": "85%",
+        "purpose": "Provides structural support and biocompatibility"
+      },
+      {
+        "material_type": "Polyethylene",
+        "quantity": "10%",
+        "purpose": "Acts as a bearing surface to reduce wear"
+      },
+      {
+        "material_type": "Hydroxyapatite coating",
+        "quantity": "5%",
+        "purpose": "Enhances bone integration"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium alloy",
+        "quantity": "1",
+        "purpose": "Main body of the prosthesis"
+      },
+      {
+        "material_type": "Polyethylene insert",
+        "quantity": "1",
+        "purpose": "Facilitates movement between components"
+      },
+      {
+        "material_type": "Screws (Titanium alloy)",
+        "quantity": "4",
+        "purpose": "Secures the prosthesis to adjacent vertebral bodies"
+      },
+      {
+        "material_type": "Locking mechanism (Stainless steel)",
+        "quantity": "1",
+        "purpose": "Ensures stability of the assembly"
+      }
+    ],
+    "previous_bom_index": 70,
+    "updated_at": "2025-03-25T09:42:26.265Z"
+  },
+  {
+    "product_name": "Fixtureappliance dental drill bit reusable",
+    "manufacturer": "DentalTech Innovations",
+    "product_origin": "Germany",
+    "ingredients": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "100%",
+        "purpose": "Provides durability and resistance to corrosion"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Tungsten Carbide",
+        "quantity": "1",
+        "purpose": "Cutting edge for precision drilling"
+      },
+      {
+        "material_type": "Silicone",
+        "quantity": "1",
+        "purpose": "Grip for handling and control"
+      },
+      {
+        "material_type": "Sterilization Cap",
+        "quantity": "1",
+        "purpose": "Ensures the drill bit remains sterile before use"
+      }
+    ],
+    "previous_bom_index": 71,
+    "updated_at": "2025-03-25T09:42:38.935Z"
+  },
+  {
+    "product_name": "Femur intramedullary nail",
+    "manufacturer": "OrthoMed Devices Inc.",
+    "product_origin": "USA",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Nail body",
+        "material": "Titanium alloy (Ti-6Al-4V)",
+        "quantity": 1,
+        "purpose": "Main structural component that provides stability and alignment to the fractured femur."
+      },
+      {
+        "name": "Proximal locking screws",
+        "material": "Stainless steel (316L)",
+        "quantity": 2,
+        "purpose": "Secure the nail within the proximal part of the femur to prevent rotation and shortening."
+      },
+      {
+        "name": "Distal locking screws",
+        "material": "Stainless steel (316L)",
+        "quantity": 2,
+        "purpose": "Secure the nail within the distal part of the femur to prevent rotation and shortening."
+      },
+      {
+        "name": "End cap",
+        "material": "Titanium alloy (Ti-6Al-4V)",
+        "quantity": 1,
+        "purpose": "Seals the distal end of the nail to prevent tissue ingrowth and facilitate removal if necessary."
+      },
+      {
+        "name": "Insertion handle",
+        "material": "Stainless steel (316L)",
+        "quantity": 1,
+        "purpose": "Tool used by the surgeon to insert the nail into the intramedullary canal of the femur."
+      },
+      {
+        "name": "Targeting device",
+        "material": "Stainless steel (316L)",
+        "quantity": 1,
+        "purpose": "Aids in the accurate placement of locking screws through the nail."
+      },
+      {
+        "name": "Drill bit for locking screws",
+        "material": "High-speed steel",
+        "quantity": 1,
+        "purpose": "Used to drill pilot holes for the locking screws in the femur."
+      },
+      {
+        "name": "Screwdriver",
+        "material": "Stainless steel (316L)",
+        "quantity": 1,
+        "purpose": "Tool used to insert and tighten the locking screws into the femur."
+      }
+    ],
+    "previous_bom_index": 72,
+    "updated_at": "2025-03-25T09:43:04.841Z"
+  },
+  {
+    "product_name": "Orthodontic tube",
+    "manufacturer": "DentalTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "100%",
+        "purpose": "Provides durability and resistance to corrosion"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "Main body of the tube for bracket attachment"
+      },
+      {
+        "material_type": "Nickel-Titanium Alloy",
+        "quantity": "1",
+        "purpose": "Internal spring mechanism for tension adjustment"
+      },
+      {
+        "material_type": "Medical Grade Adhesive",
+        "quantity": "As needed",
+        "purpose": "Secures the tube to the tooth surface"
+      }
+    ],
+    "previous_bom_index": 73,
+    "updated_at": "2025-03-25T09:43:18.266Z"
+  },
+  {
+    "product_name": "Diamond dental bur single-use",
+    "manufacturer": "DentalTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Diamond particles",
+        "quantity": "5%",
+        "purpose": "Abrasive material for cutting and shaping tooth structure"
+      },
+      {
+        "material_type": "Nickel",
+        "quantity": "60%",
+        "purpose": "Base metal for the bur, providing structural integrity"
+      },
+      {
+        "material_type": "Chromium",
+        "quantity": "20%",
+        "purpose": "Enhances corrosion resistance and durability"
+      },
+      {
+        "material_type": "Cobalt",
+        "quantity": "15%",
+        "purpose": "Increases hardness and wear resistance"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Stainless steel shaft",
+        "quantity": "1",
+        "purpose": "Connects the bur to the dental handpiece"
+      },
+      {
+        "material_type": "Diamond-coated head",
+        "quantity": "1",
+        "purpose": "The working end that performs the cutting and shaping"
+      },
+      {
+        "material_type": "Plastic protective cap",
+        "quantity": "1",
+        "purpose": "Protects the diamond-coated head before use"
+      }
+    ],
+    "previous_bom_index": 74,
+    "updated_at": "2025-03-25T09:43:36.405Z"
+  },
+  {
+    "product_name": "Arthroscopic surgical procedure kit non-medicated single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Arthroscope",
+        "material_type": "Stainless steel and optical glass",
+        "quantity": "1",
+        "purpose": "Visualization of the joint space"
+      },
+      {
+        "name": "Cannula",
+        "material_type": "Plastic",
+        "quantity": "2",
+        "purpose": "Access port for instruments"
+      },
+      {
+        "name": "Trocar",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "Penetration of tissue to access joint space"
+      },
+      {
+        "name": "Surgical drape",
+        "material_type": "Non-woven fabric",
+        "quantity": "1",
+        "purpose": "Maintain sterile field"
+      },
+      {
+        "name": "Scalpel handle",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "Holding scalpel blade for incisions"
+      },
+      {
+        "name": "Scalpel blades",
+        "material_type": "Stainless steel",
+        "quantity": "5",
+        "purpose": "Making incisions"
+      },
+      {
+        "name": "Suture needles",
+        "material_type": "Stainless steel",
+        "quantity": "10",
+        "purpose": "Closing incisions or wounds"
+      },
+      {
+        "name": "Suture material",
+        "material_type": "Polypropylene",
+        "quantity": "5",
+        "purpose": "Closing incisions or wounds"
+      },
+      {
+        "name": "Syringes",
+        "material_type": "Plastic",
+        "quantity": "3",
+        "purpose": "Injection or aspiration of fluids"
+      },
+      {
+        "name": "Needles",
+        "material_type": "Stainless steel",
+        "quantity": "5",
+        "purpose": "Injection or aspiration of fluids"
+      },
+      {
+        "name": "Sterile gloves",
+        "material_type": "Latex or nitrile",
+        "quantity": "2 pairs",
+        "purpose": "Maintain sterility of the surgical team"
+      },
+      {
+        "name": "Gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "10",
+        "purpose": "Absorption of fluids and wound dressing"
+      },
+      {
+        "name": "Towel clips",
+        "material_type": "Stainless steel",
+        "quantity": "4",
+        "purpose": "Securing drapes"
+      },
+      {
+        "name": "Irrigation tubing",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "Delivery of irrigation fluid"
+      },
+      {
+        "name": "Suction tubing",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "Removal of fluids from the surgical site"
+      },
+      {
+        "name": "Electrosurgical pencil",
+        "material_type": "Plastic and metal",
+        "quantity": "1",
+        "purpose": "Cutting or coagulating tissue"
+      },
+      {
+        "name": "Disposable electrodes",
+        "material_type": "Metal and conductive gel",
+        "quantity": "2",
+        "purpose": "Conduction of electrical current for electrosurgery"
+      },
+      {
+        "name": "Sterile saline solution",
+        "material_type": "Water and sodium chloride",
+        "quantity": "500ml",
+        "purpose": "Irrigation of the surgical site"
+      },
+      {
+        "name": "Antiseptic solution",
+        "material_type": "Povidone-iodine or chlorhexidine",
+        "quantity": "100ml",
+        "purpose": "Skin preparation before surgery"
+      },
+      {
+        "name": "Adhesive bandages",
+        "material_type": "Fabric and adhesive",
+        "quantity": "5",
+        "purpose": "Covering small incisions or wounds post-surgery"
+      }
+    ],
+    "previous_bom_index": 75,
+    "updated_at": "2025-03-25T09:44:20.943Z"
+  },
+  {
+    "product_name": "Dental composite resin",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [
+      {
+        "name": "Bisphenol A-glycidyl methacrylate (Bis-GMA)",
+        "material_type": "Resin",
+        "quantity": "20-30%",
+        "purpose": "Primary resin component providing structural integrity"
+      },
+      {
+        "name": "Urethane dimethacrylate (UDMA)",
+        "material_type": "Resin",
+        "quantity": "10-20%",
+        "purpose": "Enhances mechanical properties and reduces viscosity"
+      },
+      {
+        "name": "Triethylene glycol dimethacrylate (TEGDMA)",
+        "material_type": "Resin",
+        "quantity": "5-10%",
+        "purpose": "Diluent to adjust viscosity and improve handling"
+      },
+      {
+        "name": "Camphorquinone (CQ)",
+        "material_type": "Photoinitiator",
+        "quantity": "0.2-1%",
+        "purpose": "Initiates polymerization upon light exposure"
+      },
+      {
+        "name": "Ethyl 4-dimethylaminobenzoate (EDMAB)",
+        "material_type": "Co-initiator",
+        "quantity": "0.2-1%",
+        "purpose": "Works with CQ to enhance polymerization efficiency"
+      },
+      {
+        "name": "Silicon dioxide (SiO2)",
+        "material_type": "Filler",
+        "quantity": "40-60%",
+        "purpose": "Increases strength and wear resistance"
+      },
+      {
+        "name": "Barium glass",
+        "material_type": "Filler",
+        "quantity": "10-20%",
+        "purpose": "Provides radiopacity and improves mechanical properties"
+      },
+      {
+        "name": "Strontium glass",
+        "material_type": "Filler",
+        "quantity": "5-15%",
+        "purpose": "Enhances radiopacity and aesthetic qualities"
+      },
+      {
+        "name": "Pigments",
+        "material_type": "Additive",
+        "quantity": "0.1-1%",
+        "purpose": "Provides color matching to natural teeth"
+      }
+    ],
+    "components": [
+      {
+        "name": "Resin matrix",
+        "material_type": "Composite",
+        "quantity": "35-60%",
+        "purpose": "Binds filler particles and provides the base structure"
+      },
+      {
+        "name": "Filler particles",
+        "material_type": "Composite",
+        "quantity": "40-70%",
+        "purpose": "Enhances mechanical properties and wear resistance"
+      },
+      {
+        "name": "Coupling agent",
+        "material_type": "Additive",
+        "quantity": "1-3%",
+        "purpose": "Improves adhesion between resin matrix and filler particles"
+      },
+      {
+        "name": "Photoinitiator system",
+        "material_type": "Additive",
+        "quantity": "0.4-2%",
+        "purpose": "Initiates and accelerates the curing process"
+      },
+      {
+        "name": "Stabilizers",
+        "material_type": "Additive",
+        "quantity": "0.1-1%",
+        "purpose": "Prevents premature polymerization and extends shelf life"
+      },
+      {
+        "name": "Pigments",
+        "material_type": "Additive",
+        "quantity": "0.1-1%",
+        "purpose": "Provides color matching to natural teeth"
+      }
+    ],
+    "previous_bom_index": 76,
+    "updated_at": "2025-03-25T09:44:59.022Z"
+  },
+  {
+    "product_name": "Self-retaining surgical retractor reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Frame",
+        "material": "Medical Grade Stainless Steel (ASTM F138)",
+        "quantity": 1,
+        "purpose": "Provides structural support and stability to the retractor"
+      },
+      {
+        "name": "Blades",
+        "material": "Medical Grade Stainless Steel (ASTM F138)",
+        "quantity": 2,
+        "purpose": "Engages tissue to maintain exposure of the surgical site"
+      },
+      {
+        "name": "Adjustment Mechanism",
+        "material": "Medical Grade Stainless Steel (ASTM F138)",
+        "quantity": 1,
+        "purpose": "Allows for the adjustment of blade position to accommodate different surgical needs"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Medical Grade Stainless Steel (ASTM F138)",
+        "quantity": 1,
+        "purpose": "Secures the blades in the desired position during surgery"
+      },
+      {
+        "name": "Handle",
+        "material": "Medical Grade Stainless Steel (ASTM F138)",
+        "quantity": 1,
+        "purpose": "Provides grip for the surgeon to adjust and position the retractor"
+      },
+      {
+        "name": "Protective Coating",
+        "material": "Parylene",
+        "quantity": 1,
+        "purpose": "Enhances corrosion resistance and biocompatibility"
+      }
+    ],
+    "previous_bom_index": 77,
+    "updated_at": "2025-03-25T09:45:21.217Z"
+  },
+  {
+    "product_name": "Vascular catheter introduction set nonimplantable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Catheter",
+        "material_type": "Polyurethane",
+        "quantity": "1",
+        "purpose": "To provide a pathway for fluids or medications to be introduced into the vascular system"
+      },
+      {
+        "name": "Guidewire",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "To guide the catheter into the correct position within the vascular system"
+      },
+      {
+        "name": "Introducer needle",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "To puncture the skin and vessel for catheter insertion"
+      },
+      {
+        "name": "Dilator",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "To enlarge the puncture site for easier catheter insertion"
+      },
+      {
+        "name": "Syringe",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "To aspirate or inject fluids through the catheter"
+      },
+      {
+        "name": "Sterile drape",
+        "material_type": "Non-woven fabric",
+        "quantity": "1",
+        "purpose": "To maintain a sterile field around the insertion site"
+      },
+      {
+        "name": "Scalpel",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "To make a small incision at the insertion site if necessary"
+      },
+      {
+        "name": "Sterile gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "1 pair",
+        "purpose": "To ensure sterile handling of the catheter and insertion site"
+      },
+      {
+        "name": "Antiseptic solution",
+        "material_type": "Chlorhexidine or Povidone-iodine",
+        "quantity": "1 vial",
+        "purpose": "To disinfect the skin prior to catheter insertion"
+      },
+      {
+        "name": "Gauze pads",
+        "material_type": "Cotton",
+        "quantity": "2",
+        "purpose": "To clean and dry the insertion site"
+      },
+      {
+        "name": "Adhesive bandage",
+        "material_type": "Plastic with adhesive",
+        "quantity": "1",
+        "purpose": "To cover and protect the insertion site post-procedure"
+      }
+    ],
+    "previous_bom_index": 78,
+    "updated_at": "2025-03-25T09:45:50.314Z"
+  },
+  {
+    "product_name": "Neurosurgical procedure kit non-medicated single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile drapes",
+        "material_type": "Polypropylene",
+        "quantity": "2",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Scalpel blades",
+        "material_type": "Stainless steel",
+        "quantity": "3",
+        "purpose": "For making precise incisions"
+      },
+      {
+        "name": "Surgical gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "1 pair",
+        "purpose": "To maintain sterility and protect the patient and surgeon"
+      },
+      {
+        "name": "Sutures",
+        "material_type": "Polyglycolic acid",
+        "quantity": "5",
+        "purpose": "For closing incisions or wounds"
+      },
+      {
+        "name": "Needle holder",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "To hold the needle during suturing"
+      },
+      {
+        "name": "Forceps",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For grasping or holding tissues"
+      },
+      {
+        "name": "Scissors",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For cutting tissues or sutures"
+      },
+      {
+        "name": "Retractors",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "To hold back tissues and organs to provide access to the surgical site"
+      },
+      {
+        "name": "Sponges",
+        "material_type": "Gauze",
+        "quantity": "10",
+        "purpose": "For absorbing fluids and cleaning the surgical site"
+      },
+      {
+        "name": "Dressing materials",
+        "material_type": "Gauze and adhesive tape",
+        "quantity": "1 set",
+        "purpose": "To cover and protect the surgical site post-operation"
+      },
+      {
+        "name": "Disposable gowns",
+        "material_type": "Polypropylene",
+        "quantity": "1",
+        "purpose": "To maintain sterility and protect the surgical team"
+      },
+      {
+        "name": "Face masks",
+        "material_type": "Polypropylene",
+        "quantity": "1",
+        "purpose": "To prevent the spread of microorganisms"
+      },
+      {
+        "name": "Head covers",
+        "material_type": "Polypropylene",
+        "quantity": "1",
+        "purpose": "To maintain sterility by covering hair"
+      },
+      {
+        "name": "Shoe covers",
+        "material_type": "Polypropylene",
+        "quantity": "1 pair",
+        "purpose": "To maintain sterility by covering shoes"
+      },
+      {
+        "name": "Sterile containers",
+        "material_type": "Plastic",
+        "quantity": "2",
+        "purpose": "For holding sterile instruments or materials"
+      },
+      {
+        "name": "Instrument trays",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For organizing and holding surgical instruments"
+      }
+    ],
+    "previous_bom_index": 79,
+    "updated_at": "2025-03-25T09:46:27.519Z"
+  },
+  {
+    "product_name": "Polymeric spinal fusion cage sterile",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Polyether ether ketone (PEEK)",
+        "quantity": "100%",
+        "purpose": "Primary material for the cage structure, providing strength and biocompatibility"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium alloy",
+        "quantity": "2 screws",
+        "purpose": "Fixation screws to secure the cage to the vertebral bodies"
+      },
+      {
+        "material_type": "Sterile packaging material",
+        "quantity": "1 unit",
+        "purpose": "Ensures the product remains sterile until use"
+      },
+      {
+        "material_type": "Bioactive coating",
+        "quantity": "Applied as a thin layer",
+        "purpose": "Enhances bone growth and integration with the vertebral bodies"
+      }
+    ],
+    "previous_bom_index": 80,
+    "updated_at": "2025-03-25T09:46:42.150Z"
+  },
+  {
+    "product_name": "Orthodontic bracket ceramic",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [
+      {
+        "name": "Alumina (Al2O3)",
+        "material_type": "Ceramic",
+        "percentage": "70%",
+        "purpose": "Provides strength and durability to the bracket"
+      },
+      {
+        "name": "Zirconia (ZrO2)",
+        "material_type": "Ceramic",
+        "percentage": "20%",
+        "purpose": "Enhances fracture toughness and aesthetic appeal"
+      },
+      {
+        "name": "Silica (SiO2)",
+        "material_type": "Ceramic",
+        "percentage": "5%",
+        "purpose": "Improves the sintering process and material homogeneity"
+      },
+      {
+        "name": "Other ceramic materials",
+        "material_type": "Ceramic",
+        "percentage": "5%",
+        "purpose": "Adjusts thermal expansion and optical properties"
+      }
+    ],
+    "components": [
+      {
+        "name": "Bracket body",
+        "material_type": "Ceramic composite",
+        "quantity": "1",
+        "purpose": "Main structure that holds the archwire and applies force to the tooth"
+      },
+      {
+        "name": "Slot for archwire",
+        "material_type": "Ceramic composite",
+        "quantity": "1",
+        "purpose": "Channel through which the archwire is inserted to guide tooth movement"
+      },
+      {
+        "name": "Tie wings",
+        "material_type": "Ceramic composite",
+        "quantity": "2",
+        "purpose": "Extensions used to secure the archwire with ligatures or elastomeric ties"
+      },
+      {
+        "name": "Base for adhesion to tooth",
+        "material_type": "Ceramic composite with adhesive coating",
+        "quantity": "1",
+        "purpose": "Surface treated for bonding to the tooth enamel with dental adhesive"
+      }
+    ],
+    "previous_bom_index": 81,
+    "updated_at": "2025-03-25T09:47:06.886Z"
+  },
+  {
+    "product_name": "Surgical drill guide reusable",
+    "manufacturer": "Precision Surgical Tools Inc.",
+    "product_origin": "USA",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Guide body",
+        "material": "Stainless steel 316L",
+        "quantity": 1,
+        "purpose": "Provides structural support and alignment for the drill bit."
+      },
+      {
+        "name": "Guide sleeve",
+        "material": "Titanium Grade 5",
+        "quantity": 1,
+        "purpose": "Ensures precise drill bit guidance and reduces friction."
+      },
+      {
+        "name": "Locking mechanism",
+        "material": "Stainless steel 316L",
+        "quantity": 1,
+        "purpose": "Secures the guide sleeve in place during the drilling process."
+      },
+      {
+        "name": "Handle",
+        "material": "Medical-grade silicone",
+        "quantity": 1,
+        "purpose": "Provides a non-slip grip for the surgeon during use."
+      },
+      {
+        "name": "Screws",
+        "material": "Stainless steel 316L",
+        "quantity": 2,
+        "purpose": "Attaches the guide body to the locking mechanism securely."
+      },
+      {
+        "name": "Sterilization indicator",
+        "material": "Thermochromic ink",
+        "quantity": 1,
+        "purpose": "Indicates whether the device has been properly sterilized."
+      }
+    ],
+    "previous_bom_index": 82,
+    "updated_at": "2025-03-25T09:47:26.286Z"
+  },
+  {
+    "product_name": "Non-constrained polyethylene acetabular liner",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Ultra-high-molecular-weight polyethylene (UHMWPE)",
+        "quantity": "100%",
+        "purpose_function": "Primary material for the liner, providing durability and wear resistance"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "UHMWPE",
+        "quantity": "1",
+        "purpose_function": "Main body of the acetabular liner, designed to fit into the acetabular cup"
+      },
+      {
+        "material_type": "Titanium",
+        "quantity": "1",
+        "purpose_function": "Optional locking mechanism to secure the liner within the acetabular cup"
+      }
+    ],
+    "previous_bom_index": 83,
+    "updated_at": "2025-03-25T09:47:39.444Z"
+  },
+  {
+    "product_name": "Electrical-only medical device connection cable reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Conductive wire",
+        "material": "Oxygen-free copper",
+        "quantity": "As required by design",
+        "purpose": "To ensure minimal signal loss and high conductivity for electrical signals"
+      },
+      {
+        "name": "Insulation material",
+        "material": "Medical-grade silicone",
+        "quantity": "As required by design",
+        "purpose": "To provide electrical insulation and flexibility, suitable for medical environments"
+      },
+      {
+        "name": "Connector",
+        "material": "Medical-grade stainless steel",
+        "quantity": "2 (one for each end)",
+        "purpose": "To ensure secure and reliable connections to medical devices, resistant to corrosion"
+      },
+      {
+        "name": "Strain relief",
+        "material": "Medical-grade thermoplastic elastomer",
+        "quantity": "2 (one for each end)",
+        "purpose": "To protect the cable from bending and pulling forces at connection points"
+      },
+      {
+        "name": "Shielding",
+        "material": "Tinned copper braid",
+        "quantity": "As required by design",
+        "purpose": "To protect against electromagnetic interference (EMI) and radio frequency interference (RFI)"
+      },
+      {
+        "name": "Outer jacket",
+        "material": "Medical-grade polyurethane",
+        "quantity": "As required by design",
+        "purpose": "To provide durability, flexibility, and resistance to chemicals and abrasion in medical settings"
+      }
+    ],
+    "previous_bom_index": 84,
+    "updated_at": "2025-03-25T09:47:59.730Z"
+  },
+  {
+    "product_name": "Orthopaedic jointlimb rongeur",
+    "manufacturer": "MedTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "80%",
+        "purpose_function": "Provides durability and resistance to corrosion for the main body of the rongeur."
+      },
+      {
+        "material_type": "Titanium",
+        "quantity": "15%",
+        "purpose_function": "Used for the cutting edges to ensure sharpness and longevity."
+      },
+      {
+        "material_type": "Rubber",
+        "quantity": "5%",
+        "purpose_function": "Used for the handle grips to provide comfort and non-slip surface during use."
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose_function": "Main body frame that houses the mechanism and provides structural integrity."
+      },
+      {
+        "material_type": "Titanium",
+        "quantity": "2",
+        "purpose_function": "Cutting blades designed for precision and durability in surgical procedures."
+      },
+      {
+        "material_type": "Rubber",
+        "quantity": "2",
+        "purpose_function": "Handle covers that enhance grip and reduce hand fatigue during prolonged use."
+      },
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose_function": "Spring mechanism that ensures smooth operation and return of the cutting blades."
+      }
+    ],
+    "previous_bom_index": 85,
+    "updated_at": "2025-03-25T09:48:19.509Z"
+  },
+  {
+    "product_name": "Orthodontic wire",
+    "manufacturer": "DentalTech Innovations",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Nickel-Titanium Alloy",
+        "quantity": "70%",
+        "purpose": "Provides flexibility and shape memory"
+      },
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "30%",
+        "purpose": "Adds strength and durability"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Coating (PTFE)",
+        "quantity": "100%",
+        "purpose": "Reduces friction and improves patient comfort"
+      }
+    ],
+    "previous_bom_index": 86,
+    "updated_at": "2025-03-25T09:48:31.348Z"
+  },
+  {
+    "product_name": "Craniofacial fixation plate non-bioabsorbable non-customized",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Titanium",
+        "quantity": "100%",
+        "purpose": "Provides structural support and biocompatibility"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Titanium alloy",
+        "quantity": "1",
+        "purpose": "Main plate structure for fixation"
+      },
+      {
+        "material_type": "Stainless steel screws",
+        "quantity": "varies",
+        "purpose": "Secures the plate to the bone"
+      },
+      {
+        "material_type": "Sterile packaging",
+        "quantity": "1",
+        "purpose": "Ensures product sterility until use"
+      }
+    ],
+    "previous_bom_index": 87,
+    "updated_at": "2025-03-25T09:48:45.038Z"
+  },
+  {
+    "product_name": "Laparoscopic surgical procedure kit non-medicated single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Laparoscopic scissors",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "Cutting tissue during surgery"
+      },
+      {
+        "name": "Laparoscopic graspers",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "Grasping and holding tissue"
+      },
+      {
+        "name": "Laparoscopic dissector",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "Dissecting tissue layers"
+      },
+      {
+        "name": "Laparoscopic needle holder",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "Holding suturing needle"
+      },
+      {
+        "name": "Laparoscopic trocars",
+        "material_type": "Plastic and stainless steel",
+        "quantity": "3",
+        "purpose": "Creating access ports for instruments"
+      },
+      {
+        "name": "Laparoscopic camera",
+        "material_type": "Plastic and electronic components",
+        "quantity": "1",
+        "purpose": "Providing visual feedback during surgery"
+      },
+      {
+        "name": "Laparoscopic light cable",
+        "material_type": "Fiber optic",
+        "quantity": "1",
+        "purpose": "Delivering light to the surgical site"
+      },
+      {
+        "name": "Laparoscopic insufflation tubing",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "Delivering CO2 to insufflate the abdomen"
+      },
+      {
+        "name": "Laparoscopic specimen retrieval bag",
+        "material_type": "Plastic",
+        "quantity": "2",
+        "purpose": "Retrieving specimens from the body"
+      },
+      {
+        "name": "Laparoscopic clip applier",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "Applying clips to blood vessels or ducts"
+      },
+      {
+        "name": "Laparoscopic suction irrigation device",
+        "material_type": "Plastic and stainless steel",
+        "quantity": "1",
+        "purpose": "Suctioning fluids and irrigating the surgical site"
+      },
+      {
+        "name": "Laparoscopic electrosurgical cord",
+        "material_type": "Plastic and metal",
+        "quantity": "1",
+        "purpose": "Connecting electrosurgical devices to power source"
+      },
+      {
+        "name": "Disposable scalpel",
+        "material_type": "Stainless steel blade with plastic handle",
+        "quantity": "1",
+        "purpose": "Making initial incisions"
+      },
+      {
+        "name": "Disposable skin marker",
+        "material_type": "Plastic and ink",
+        "quantity": "1",
+        "purpose": "Marking incision sites on the skin"
+      },
+      {
+        "name": "Disposable drapes",
+        "material_type": "Non-woven fabric",
+        "quantity": "4",
+        "purpose": "Creating a sterile field around the surgical site"
+      },
+      {
+        "name": "Disposable gowns",
+        "material_type": "Non-woven fabric",
+        "quantity": "2",
+        "purpose": "Providing sterile barrier for surgical team"
+      },
+      {
+        "name": "Disposable gloves",
+        "material_type": "Latex or nitrile",
+        "quantity": "2 pairs",
+        "purpose": "Protecting hands and maintaining sterility"
+      },
+      {
+        "name": "Disposable masks",
+        "material_type": "Non-woven fabric",
+        "quantity": "2",
+        "purpose": "Preventing contamination from respiratory droplets"
+      },
+      {
+        "name": "Disposable caps",
+        "material_type": "Non-woven fabric",
+        "quantity": "2",
+        "purpose": "Covering hair to maintain sterility"
+      },
+      {
+        "name": "Disposable shoe covers",
+        "material_type": "Non-woven fabric",
+        "quantity": "2 pairs",
+        "purpose": "Preventing contamination from footwear"
+      },
+      {
+        "name": "Sterilization pouch",
+        "material_type": "Paper and plastic",
+        "quantity": "1",
+        "purpose": "Maintaining sterility of the kit until use"
+      }
+    ],
+    "previous_bom_index": 88,
+    "updated_at": "2025-03-25T09:49:32.322Z"
+  },
+  {
+    "product_name": "Bone-screw internal spinal fixation system connector",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Connector Body",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": 1,
+        "purpose": "Serves as the main structural component that connects the bone screws and the spinal rod."
+      },
+      {
+        "name": "Locking Screw",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": 2,
+        "purpose": "Secures the rod within the connector body to prevent movement."
+      },
+      {
+        "name": "Set Screw",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": 1,
+        "purpose": "Adjusts the tightness of the rod clamp to ensure a secure fit."
+      },
+      {
+        "name": "Rod Clamp",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": 1,
+        "purpose": "Holds the spinal rod in place within the connector body."
+      },
+      {
+        "name": "Bone Screw",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": 2,
+        "purpose": "Anchors the connector to the vertebrae."
+      },
+      {
+        "name": "Washer",
+        "material": "Titanium Alloy (Ti-6Al-4V)",
+        "quantity": 1,
+        "purpose": "Distributes the load of the locking screw to prevent damage to the connector body."
+      }
+    ],
+    "previous_bom_index": 89,
+    "updated_at": "2025-03-25T09:49:54.615Z"
+  },
+  {
+    "product_name": "Nitrile examinationtreatment glove non-powdered non-antimicrobial",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "Country of Origin",
+    "ingredients": [
+      {
+        "material_type": "Nitrile rubber",
+        "quantity": "100%",
+        "purpose_function": "Primary material providing elasticity and barrier protection"
+      },
+      {
+        "material_type": "Calcium carbonate",
+        "quantity": "5%",
+        "purpose_function": "Filler to improve durability and texture"
+      },
+      {
+        "material_type": "Zinc oxide",
+        "quantity": "1%",
+        "purpose_function": "Accelerator for the curing process"
+      },
+      {
+        "material_type": "Sulfur",
+        "quantity": "0.5%",
+        "purpose_function": "Vulcanizing agent to enhance material properties"
+      },
+      {
+        "material_type": "Stearic acid",
+        "quantity": "0.5%",
+        "purpose_function": "Processing aid to facilitate manufacturing"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Nitrile glove",
+        "quantity": "1 piece",
+        "purpose_function": "Final product for examination and treatment purposes"
+      },
+      {
+        "material_type": "Packaging material",
+        "quantity": "1 unit",
+        "purpose_function": "Protects and contains the glove until use"
+      }
+    ],
+    "previous_bom_index": 90,
+    "updated_at": "2025-03-25T09:50:13.087Z"
+  },
+  {
+    "product_name": "Ophthalmic surgical procedure kit non-medicated single-use",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile drape",
+        "material_type": "Polypropylene",
+        "quantity": "1",
+        "purpose": "To create a sterile field around the surgical area"
+      },
+      {
+        "name": "Sterile gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "1 pair",
+        "purpose": "To maintain sterility of the surgeon's hands"
+      },
+      {
+        "name": "Sterile gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "5",
+        "purpose": "For cleaning and drying the surgical area"
+      },
+      {
+        "name": "Sterile eye speculum",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "To hold the eyelids open during the procedure"
+      },
+      {
+        "name": "Sterile surgical blades",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For making precise incisions"
+      },
+      {
+        "name": "Sterile irrigation solution",
+        "material_type": "Saline",
+        "quantity": "50 ml",
+        "purpose": "To cleanse the eye during surgery"
+      },
+      {
+        "name": "Sterile sutures",
+        "material_type": "Polypropylene",
+        "quantity": "3",
+        "purpose": "For closing incisions"
+      },
+      {
+        "name": "Sterile needles",
+        "material_type": "Stainless steel",
+        "quantity": "3",
+        "purpose": "For suturing"
+      },
+      {
+        "name": "Sterile syringes",
+        "material_type": "Plastic",
+        "quantity": "2",
+        "purpose": "For administering irrigation solution or medications"
+      },
+      {
+        "name": "Sterile cotton swabs",
+        "material_type": "Cotton",
+        "quantity": "10",
+        "purpose": "For applying solutions or removing debris"
+      },
+      {
+        "name": "Sterile forceps",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For grasping tissues or materials"
+      },
+      {
+        "name": "Sterile scissors",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For cutting sutures or tissues"
+      },
+      {
+        "name": "Sterile eye pad",
+        "material_type": "Cotton",
+        "quantity": "1",
+        "purpose": "For post-operative protection of the eye"
+      },
+      {
+        "name": "Sterile adhesive tape",
+        "material_type": "Paper or Plastic",
+        "quantity": "1 roll",
+        "purpose": "For securing the eye pad"
+      },
+      {
+        "name": "Instruction for use",
+        "material_type": "Paper",
+        "quantity": "1",
+        "purpose": "To guide the user on proper kit usage"
+      }
+    ],
+    "previous_bom_index": 91,
+    "updated_at": "2025-03-25T09:50:47.752Z"
+  },
+  {
+    "product_name": "Angiographic catheter single-use",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Polyurethane",
+        "quantity": "70%",
+        "purpose_function": "Provides flexibility and durability to the catheter body"
+      },
+      {
+        "material_type": "Tungsten",
+        "quantity": "20%",
+        "purpose_function": "Enhances radiopacity for better visibility under X-ray"
+      },
+      {
+        "material_type": "Silicone",
+        "quantity": "10%",
+        "purpose_function": "Coating to reduce friction during insertion"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose_function": "Guidewire for catheter navigation"
+      },
+      {
+        "material_type": "Polyethylene",
+        "quantity": "1",
+        "purpose_function": "Hub connector for syringe attachment"
+      },
+      {
+        "material_type": "Nylon",
+        "quantity": "1",
+        "purpose_function": "Braiding reinforcement for structural integrity"
+      }
+    ],
+    "previous_bom_index": 92,
+    "updated_at": "2025-03-25T09:51:03.589Z"
+  },
+  {
+    "product_name": "Air-conduction hearing aid canal",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Microphone",
+        "material_type": "Electret condenser",
+        "quantity": "1",
+        "purpose": "Captures sound from the environment."
+      },
+      {
+        "name": "Amplifier",
+        "material_type": "Silicon chip",
+        "quantity": "1",
+        "purpose": "Increases the power of the sound signals."
+      },
+      {
+        "name": "Speaker",
+        "material_type": "Dynamic receiver",
+        "quantity": "1",
+        "purpose": "Delivers the amplified sound into the ear canal."
+      },
+      {
+        "name": "Battery",
+        "material_type": "Zinc-air",
+        "quantity": "1",
+        "purpose": "Powers the hearing aid."
+      },
+      {
+        "name": "Ear mold",
+        "material_type": "Medical-grade silicone",
+        "quantity": "1",
+        "purpose": "Custom-fit piece that directs sound into the ear and holds the hearing aid in place."
+      },
+      {
+        "name": "Volume control",
+        "material_type": "Potentiometer",
+        "quantity": "1",
+        "purpose": "Allows the user to adjust the sound level."
+      },
+      {
+        "name": "On/Off switch",
+        "material_type": "Plastic and metal",
+        "quantity": "1",
+        "purpose": "Controls the power state of the hearing aid."
+      },
+      {
+        "name": "Dome",
+        "material_type": "Silicone",
+        "quantity": "1",
+        "purpose": "Helps to secure the hearing aid in the ear canal and improve sound quality."
+      },
+      {
+        "name": "Tubing",
+        "material_type": "Medical-grade plastic",
+        "quantity": "1",
+        "purpose": "Connects the ear mold to the hearing aid, directing sound into the ear."
+      }
+    ],
+    "previous_bom_index": 93,
+    "updated_at": "2025-03-25T09:51:27.504Z"
+  },
+  {
+    "product_name": "Orthopaedic inorganic implant inserterextractor reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Handle",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Provides structural support and durability for the device"
+      },
+      {
+        "name": "Shaft",
+        "material": "Titanium",
+        "quantity": 1,
+        "purpose": "Connects the handle to the tips, ensuring strength and flexibility"
+      },
+      {
+        "name": "Extractor Tip",
+        "material": "Titanium",
+        "quantity": 1,
+        "purpose": "Designed to securely remove implants without damaging surrounding tissue"
+      },
+      {
+        "name": "Inserter Tip",
+        "material": "Titanium",
+        "quantity": 1,
+        "purpose": "Facilitates the precise placement of implants into the bone"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel",
+        "quantity": 1,
+        "purpose": "Ensures the tips are securely attached to the shaft during use"
+      },
+      {
+        "name": "Grip",
+        "material": "Rubber",
+        "quantity": 1,
+        "purpose": "Enhances user comfort and prevents slippage during procedures"
+      },
+      {
+        "name": "Sterilization Cap",
+        "material": "Silicone",
+        "quantity": 1,
+        "purpose": "Protects the device tips during sterilization processes"
+      }
+    ],
+    "previous_bom_index": 94,
+    "updated_at": "2025-03-25T09:51:47.895Z"
+  },
+  {
+    "product_name": "Obstetricalgynaecological surgical procedure kit medicated",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Sterile gloves",
+        "material_type": "Latex or Nitrile",
+        "quantity": "1 pair",
+        "purpose": "To maintain sterility and protect both the patient and healthcare provider"
+      },
+      {
+        "name": "Surgical drapes",
+        "material_type": "Disposable non-woven fabric",
+        "quantity": "1 set",
+        "purpose": "To create a sterile field around the surgical site"
+      },
+      {
+        "name": "Scalpel blades",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For making precise incisions"
+      },
+      {
+        "name": "Suture needles",
+        "material_type": "Stainless steel",
+        "quantity": "5",
+        "purpose": "For suturing wounds or surgical incisions"
+      },
+      {
+        "name": "Suture threads",
+        "material_type": "Absorbable or non-absorbable synthetic material",
+        "quantity": "5",
+        "purpose": "For closing wounds or surgical incisions"
+      },
+      {
+        "name": "Gauze sponges",
+        "material_type": "Cotton",
+        "quantity": "10",
+        "purpose": "For cleaning and absorbing fluids during the procedure"
+      },
+      {
+        "name": "Antiseptic solution",
+        "material_type": "Povidone-iodine or Chlorhexidine",
+        "quantity": "1 bottle",
+        "purpose": "For disinfecting the surgical site"
+      },
+      {
+        "name": "Sterile saline solution",
+        "material_type": "Sodium chloride in water",
+        "quantity": "1 bottle",
+        "purpose": "For irrigation and cleaning wounds"
+      },
+      {
+        "name": "Medicated ointment",
+        "material_type": "Antibiotic or antiseptic",
+        "quantity": "1 tube",
+        "purpose": "For application to wounds to prevent infection"
+      },
+      {
+        "name": "Disposable syringes",
+        "material_type": "Plastic",
+        "quantity": "3",
+        "purpose": "For administering medications or anesthetics"
+      },
+      {
+        "name": "Needles for injection",
+        "material_type": "Stainless steel",
+        "quantity": "3",
+        "purpose": "For administering medications or anesthetics"
+      },
+      {
+        "name": "Catheters",
+        "material_type": "Silicone or latex",
+        "quantity": "2",
+        "purpose": "For draining fluids or administering medications"
+      },
+      {
+        "name": "Speculum",
+        "material_type": "Stainless steel or plastic",
+        "quantity": "1",
+        "purpose": "For examining the vaginal canal and cervix"
+      },
+      {
+        "name": "Forceps",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For grasping or holding tissues"
+      },
+      {
+        "name": "Scissors",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For cutting tissues or sutures"
+      },
+      {
+        "name": "Hemostats",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For clamping blood vessels to control bleeding"
+      },
+      {
+        "name": "Retractors",
+        "material_type": "Stainless steel",
+        "quantity": "2",
+        "purpose": "For holding back tissues to provide access to the surgical site"
+      },
+      {
+        "name": "Sponge holders",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For holding gauze sponges during the procedure"
+      },
+      {
+        "name": "Uterine sound",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For measuring the depth of the uterus"
+      },
+      {
+        "name": "Cervical dilators",
+        "material_type": "Stainless steel",
+        "quantity": "1 set",
+        "purpose": "For dilating the cervix"
+      },
+      {
+        "name": "Curette",
+        "material_type": "Stainless steel",
+        "quantity": "1",
+        "purpose": "For scraping or removing tissue from the uterine wall"
+      },
+      {
+        "name": "Electrosurgical pencil",
+        "material_type": "Stainless steel with plastic handle",
+        "quantity": "1",
+        "purpose": "For cutting or coagulating tissues using electrical current"
+      },
+      {
+        "name": "Disposable underpads",
+        "material_type": "Plastic-backed absorbent material",
+        "quantity": "2",
+        "purpose": "For protecting surfaces from fluids during the procedure"
+      },
+      {
+        "name": "Biohazard waste bag",
+        "material_type": "Plastic",
+        "quantity": "1",
+        "purpose": "For safe disposal of contaminated materials"
+      }
+    ],
+    "previous_bom_index": 95,
+    "updated_at": "2025-03-25T09:52:41.235Z"
+  },
+  {
+    "product_name": "Orthopaedic fixation plate non-bioabsorbable non-sterile",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Plate",
+        "material": "Stainless Steel 316L or Titanium Grade 5",
+        "quantity": "1",
+        "purpose": "Provides structural support to stabilize bone fractures"
+      },
+      {
+        "name": "Screws",
+        "material": "Stainless Steel 316L or Titanium Grade 5",
+        "quantity": "Varies (typically 4-12)",
+        "purpose": "Secures the plate to the bone"
+      },
+      {
+        "name": "Washers",
+        "material": "Stainless Steel 316L or Titanium Grade 5",
+        "quantity": "Varies (typically matches screw count)",
+        "purpose": "Distributes load and prevents screw head from sinking into the plate"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel 316L or Titanium Grade 5",
+        "quantity": "Varies (typically matches screw count)",
+        "purpose": "Ensures screws remain securely fastened to the plate"
+      },
+      {
+        "name": "Drill Guide",
+        "material": "Stainless Steel 316L",
+        "quantity": "1",
+        "purpose": "Ensures accurate screw placement during surgery"
+      }
+    ],
+    "previous_bom_index": 96,
+    "updated_at": "2025-03-25T09:53:00.143Z"
+  },
+  {
+    "product_name": "Polyolefinfluoropolymer suture monofilament",
+    "manufacturer": "Example Manufacturer Inc.",
+    "product_origin": "USA",
+    "ingredients": [
+      {
+        "material_type": "Polyolefinfluoropolymer",
+        "quantity": "100%",
+        "purpose": "Primary material providing strength, flexibility, and biocompatibility"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Sterilization packaging",
+        "quantity": "1 unit",
+        "purpose": "Ensures the product remains sterile until use"
+      },
+      {
+        "material_type": "Needle (if applicable)",
+        "quantity": "1 unit",
+        "purpose": "Facilitates the suturing process"
+      },
+      {
+        "material_type": "Thread",
+        "quantity": "1 unit",
+        "purpose": "The monofilament suture itself, used for wound closure"
+      }
+    ],
+    "previous_bom_index": 97,
+    "updated_at": "2025-03-25T09:53:13.867Z"
+  },
+  {
+    "product_name": "Surgical retraction system reusable",
+    "manufacturer": "",
+    "product_origin": "",
+    "ingredients": [],
+    "components": [
+      {
+        "name": "Retractor Blades",
+        "material": "Stainless Steel",
+        "quantity": "4",
+        "purpose": "To hold back tissues or organs to provide access to the surgical site"
+      },
+      {
+        "name": "Handles",
+        "material": "Stainless Steel",
+        "quantity": "2",
+        "purpose": "To provide grip and control for the surgeon during the retraction process"
+      },
+      {
+        "name": "Locking Mechanism",
+        "material": "Stainless Steel",
+        "quantity": "2",
+        "purpose": "To secure the retractor blades in the desired position"
+      },
+      {
+        "name": "Adjustment Screws",
+        "material": "Stainless Steel",
+        "quantity": "4",
+        "purpose": "To allow for the adjustment of the retractor blades' position"
+      },
+      {
+        "name": "Padding",
+        "material": "Silicone",
+        "quantity": "4",
+        "purpose": "To protect tissues from damage during retraction"
+      },
+      {
+        "name": "Sterilization Case",
+        "material": "Polycarbonate",
+        "quantity": "1",
+        "purpose": "To store and sterilize the retraction system components"
+      }
+    ],
+    "previous_bom_index": 98,
+    "updated_at": "2025-03-25T09:53:32.323Z"
+  },
+  {
+    "product_name": "Acetabulum prosthesis trial prefabricated reusable",
+    "manufacturer": "Example Manufacturer",
+    "product_origin": "Example Country",
+    "ingredients": [
+      {
+        "material_type": "Medical Grade Stainless Steel",
+        "quantity": "70%",
+        "purpose": "Provides structural integrity and durability"
+      },
+      {
+        "material_type": "High-Density Polyethylene",
+        "quantity": "30%",
+        "purpose": "Ensures smooth articulation and reduces wear"
+      }
+    ],
+    "components": [
+      {
+        "material_type": "Stainless Steel",
+        "quantity": "1",
+        "purpose": "Main body of the prosthesis trial"
+      },
+      {
+        "material_type": "Polyethylene Liner",
+        "quantity": "1",
+        "purpose": "Inner lining for articulation surface"
+      },
+      {
+        "material_type": "Titanium Screws",
+        "quantity": "3",
+        "purpose": "Secures the prosthesis trial in place during testing"
+      }
+    ],
+    "previous_bom_index": 99,
+    "updated_at": "2025-03-25T09:53:46.491Z"
+  }
+]
