@@ -61,14 +61,70 @@ async function getBOMFromDeepSeek(productName, index) {
     }, {
         role: "user",
         content: `Create or update a bill of materials for a ${cleanProductName} using this exact JSON format:
+
+        [
+  {
+    "product_name": "${cleanProductName}",
+    "product": {
+      "name": "${cleanProductName}",
+      "description": "",
+      "total_cost": "",
+      "components": [
         {
-            "product_name": "${cleanProductName}",
-            "manufacturer": "",
-            "product_origin": "",
-            "ingredients": [],
-            "components": []
+          "component_name": "",
+          "part_number": "",
+          "quantity": "",
+          "unit_of_measurement": "",
+          "specifications": {
+            "dimensions": "",
+            "weight": "",
+            "material_type": ""
+          },
+          "supplier": {
+            "name": "",
+            "location": ""
+          },
+          "cost": {
+            "unit_cost": "",
+            "total_cost": ""
+          },
+          "assembly_instructions": ""
         }
-        
+      ]
+    },
+    "lifecycle_assessment": {
+      "raw_material_extraction": {
+        "origin": "",
+        "environmental_impact": "",
+        "renewable_resource": ""
+      },
+      "manufacturing_processes": {
+        "energy_consumption": "",
+        "emissions": "",
+        "waste_generated": ""
+      },
+      "transportation": {
+        "carbon_footprint": "",
+        "logistics_efficiency": ""
+      },
+      "usage_phase": {
+        "impact": "",
+        "energy_efficiency": "",
+        "maintenance_requirements": ""
+      },
+      "end_of_life_disposal": {
+        "recyclability": "",
+        "reuse_opportunities": "",
+        "disposal_impact": ""
+      },
+      "environmental_indicators": {
+        "greenhouse_gas_emissions": "",
+        "water_usage": "",
+        "ecological_footprint": ""
+      }
+    }
+  }
+]
         ${existingBOM ? `Here is the existing BOM for this product (index ${index}):\n${JSON.stringify(existingBOM, null, 2)}` : 'No existing BOM found for this product index'}
         
         Guidelines:
@@ -200,3 +256,13 @@ process.on('uncaughtException', (error) => {
 });
 
 generateBOMsForProducts();
+
+
+
+    // {
+        //     "product_name": "${cleanProductName}",
+        //     "manufacturer": "",
+        //     "product_origin": "",
+        //     "ingredients": [],
+        //     "components": []
+        // }
